@@ -1,0 +1,7 @@
+Intel Core i5 12400 CPU with 6 cores and 12 threads suitable for gaming and software development.
+AMD Ryzen 5 5600 CPU optimized for multitasking, gaming, and productivity workloads.
+NVIDIA RTX 3060 GPU with 12GB VRAM suitable for gaming, video editing, and AI applications.
+AMD Radeon RX 6600 GPU designed for budget gaming and high frame rate performance.
+16GB DDR4 RAM suitable for gaming, development, and everyday multitasking.
+512GB NVMe SSD offering fast boot times and quick application loading.
+1TB HDD suitable for bulk storage of files and media.
