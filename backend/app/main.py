@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from app.config import DB_HOST
 from app.db.base import Base
 from app.db.session import engine
+from app.api.recommend import router as recommend_router
 
 # Import models so they are registered with Base
 from app.models.pc_part import PCPart
@@ -12,6 +13,7 @@ from app.models.user_query import UserQuery
 app = FastAPI(title="PC Recommendation System API")
 
 # Create database tables
+app.include_router(recommend_router)
 Base.metadata.create_all(bind=engine)
 
 
