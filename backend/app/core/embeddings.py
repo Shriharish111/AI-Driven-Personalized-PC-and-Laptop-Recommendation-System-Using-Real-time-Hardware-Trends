@@ -8,12 +8,15 @@ import numpy as np
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
+
+
 def load_pc_part_texts() -> list[str]:
     """
     Load PC part descriptions from processed text file.
     Each line represents one PC part.
     """
-    data_path = Path("backend/data/processed/pc_parts.txt")
+    BASE_DIR = Path(__file__).resolve().parents[3]
+    data_path = BASE_DIR / "backend" / "data" / "processed" / "pc_parts.txt"
 
     texts = []
     with open(data_path, "r", encoding="utf-8") as file:
@@ -59,15 +62,25 @@ def create_faiss_index(embeddings: list[list[float]]):
 
     return index
 
-def save_faiss_index(index, index_path: str):
+def get_vector_store_path() -> Path:
+    """
+    Get absolute path to FAISS vector store file.
+    """
+    BASE_DIR = Path(__file__).resolve().parents[3]
+    return BASE_DIR / "backend" / "vector_store" / "pc_parts.faiss"
+
+
+def save_faiss_index(index):
     """
     Save FAISS index to disk.
     """
-    faiss.write_index(index, index_path)
+    index_path = get_vector_store_path()
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+    faiss.write_index(index, str(index_path))
 
 
-def load_faiss_index(index_path: str):
+def load_faiss_index():
     """
     Load FAISS index from disk.
     """
-    return faiss.read_index(index_path)
+    return faiss.read_index(str(get_vector_store_path()))
