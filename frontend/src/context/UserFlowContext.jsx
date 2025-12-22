@@ -9,18 +9,30 @@ export function UserFlowProvider({ children }) {
   const [subUseCase, setSubUseCase] = useState(null)
   const [budget, setBudget] = useState(null)
 
+  const [preferences, setPreferences] = useState({
+  cpu: "",
+  gpu: "",
+  ram: "",
+  storage: "",
+  notes: ""
+})
+
+
   const value = {
-    difficulty,
-    setDifficulty,
-    category,
-    setCategory,
-    useCase,
-    setUseCase,
-    subUseCase,
-    setSubUseCase,
-    budget,
-    setBudget
-  }
+  difficulty,
+  setDifficulty,
+  category,
+  setCategory,
+  useCase,
+  setUseCase,
+  subUseCase,
+  setSubUseCase,
+  budget,
+  setBudget,
+  preferences,
+  setPreferences
+}
+
 
   return (
     <UserFlowContext.Provider value={value}>
@@ -32,3 +44,4 @@ export function UserFlowProvider({ children }) {
 export function useUserFlow() {
   return useContext(UserFlowContext)
 }
+
