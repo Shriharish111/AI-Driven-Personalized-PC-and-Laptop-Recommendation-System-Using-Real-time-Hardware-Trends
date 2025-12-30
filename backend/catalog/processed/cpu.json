@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "10th_gen_intel_core_i3_10100_desktop_6m_cache_4_cores_up_to_4_3ghz_lga_1200_intel_400_series_chipset_65w",
+    "name": "10th Gen Intel\u00ae Core\u2122 i3-10100 Desktop  6M Cache, 4 Cores up to 4.3GHz LGA 1200 (Intel\u00ae 400 Series Chipset) 65W",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 11999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "10th_gen_intel_core_i5_10400_desktop_12m_cache_6_cores_up_to_4_3ghz_lga_1200_intel_400_series_chipset_65w_bx8070110400",
+    "name": "10th Gen Intel\u00ae Core\u2122 i5-10400 Desktop  12M Cache, 6 Cores up to 4.3GHz LGA 1200 (Intel\u00ae 400 Series Chipset) 65W BX8070110400",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13176,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "10th_gen_intel_core_i7_10700k_desktop_8_cores_up_to_5_1ghz_unlocked_lga_1200_intel_400_series_chipset_125w_bx8070110700k",
+    "name": "10th Gen Intel\u00ae Core\u2122 i7-10700K Desktop  8 Cores up to 5.1GHz Unlocked LGA 1200 (Intel\u00ae 400 Series Chipset) 125W BX8070110700K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 24390,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i3_9100f_desktop_4_cores_up_to_4_2ghz_without_graphics_lga_1151_intel_300_series_chipset_65w_bx80684i39100f",
+    "name": "9th Gen Intel\u00ae Core\u2122 i3-9100F Desktop  4 Cores up to 4.2GHz Without  Graphics LGA 1151 (Intel\u00ae 300 Series Chipset) 65W BX80684i39100F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5935,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i5_9600k_desktop_6_cores_up_to_4_6ghz_unlocked_lga1151_intel_300_series_chipset_95w_bx80684i59600k",
+    "name": "9th Gen Intel\u00ae Core\u2122 i5-9600K Desktop  6 Cores up to 4.6GHz Unlocked LGA1151 (Intel\u00ae 300 Series chipset) 95W BX80684i59600K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i5_9600kf_desktop_6_cores_up_to_4_6ghz_unlocked_without_graphics_lga_1151_intel_300_series_chipset_95w_bx80684i59600kf",
+    "name": "9th Gen Intel\u00ae Core\u2122 i5-9600KF Desktop  6 Cores up to 4.6GHz Unlocked Without  Graphics LGA 1151 (Intel\u00ae 300 Series Chipset) 95W BX80684I59600KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 21999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i7_9700f_desktop_8_cores_up_to_4_7ghz_without_graphics_lga1151_intel_300_series_chipset_65w_bx80684i79700f",
+    "name": "9th Gen Intel\u00ae Core\u2122 i7-9700F Desktop  8 Cores up to 4.7GHz Without  Graphics LGA1151 (Intel\u00ae 300 Series chipset) 65W BX80684I79700F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 35990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i7_9700kf_desktop_8_cores_up_to_4_9ghz_unlocked_without_graphics_lga1151_intel_300_series_chipset_95w_bx80684i79700kf",
+    "name": "9th Gen Intel\u00ae Core\u2122 i7-9700KF Desktop  8 Cores up to 4.9GHz Unlocked Without  Graphics LGA1151 (Intel\u00ae 300 Series chipset) 95W BX80684I79700KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 35999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_3_3200g_with_radeon_rx_vega_8_graphics_4_cores_4_threads_with_max_boost_clock_of_4ghz_base_clock_of_3_6ghz_and_6mb_game_cache",
+    "name": "AMD Ryzen 3 3200G With Radeon RX Vega 8 Graphics (4 Cores 4 Threads With Max Boost Clock Of 4GHz, Base Clock Of 3.6GHz And 6MB Game Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5094,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_3400g_with_radeon_rx_vega_11_graphics_4_cores_8_threads_with_max_boost_clock_of_4_2ghz_base_clock_of_3_7ghz_and_6mb_game_cache",
+    "name": "AMD RYZEN 5 3400G WITH RADEON RX VEGA 11 GRAPHICS (4 CORES 8 THREADS WITH MAX BOOST CLOCK OF 4.2GHz,BASE CLOCK OF 3.7GHz AND 6MB GAME CACHE)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 6049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_3500_6_cores_6_threads_with_base_clock_of_3_6ghz_max_boost_clock_of_4_1ghz_and_19mb_game_cache",
+    "name": "AMD RYZEN 5 3500 (6 CORES 6 THREADS,WITH BASE CLOCK OF 3.6GHz,MAX BOOST CLOCK OF 4.1GHz AND 19MB GAME CACHE)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 12399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_3600_amd_ryzen_5_3600_processor_upto_4_2_ghz_35_mb_cache",
+    "name": "AMD RYZEN 5 3600 AMD RYZEN 5 3600 PROCESSOR (UPTO 4.2 GHZ / 35 MB CACHE)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 7980,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_3700x_8_cores_16_threads_with_max_boost_clock_of_4_4ghz_base_clock_of_3_6ghz_and_36mb_game_cache",
+    "name": "AMD Ryzen 7 3700X (8 Cores 16 Threads With Max Boost Clock Of 4.4GHz, Base Clock Of 3.6GHz And 36MB Game Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 16739,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_3900xt_12_cores_24_threads_with_max_boost_clock_of_4_7ghz_base_clock_of_3_8ghz_and_70mb_game_cache",
+    "name": "AMD Ryzen 9 3900XT (12 CORES 24 THREADS WITH MAX BOOST CLOCK OF 4.7GHz, BASE CLOCK OF 3.8GHz AND 70MB GAME CACHE)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 37999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_3950x_16_cores_32_threads_with_max_boost_clock_of_4_7ghz_base_clock_of_3_5ghz_and_72mb_game_cache",
+    "name": "AMD Ryzen 9 3950X (16 Cores 32 Threads,With Max Boost Clock Of 4.7GHz, Base Clock Of 3.5GHz And 72MB Game Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 59799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_10500_10th_generation_processor_12m_cache_up_to_4_50_ghz",
+    "name": "INTEL CORE I5-10500 10TH GENERATION PROCESSOR (12M CACHE, UP TO 4.50 GHZ)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 14680,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_10th_gen_comet_lake_core_i7_10700f_16m_cache_up_to_4_80_ghz",
+    "name": "Intel 10th Gen Comet Lake Core i7-10700F  16M Cache, up to 4.80 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 17999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_10th_gen_comet_lake_core_i9_10900_20m_cache_up_to_5_20_ghz",
+    "name": "Intel 10th Gen Comet Lake Core i9-10900  20M Cache, up to 5.20 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 46999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_10th_gen_comet_lake_core_i9_10900f_20m_cache_up_to_5_20_ghz",
+    "name": "Intel 10th Gen Comet Lake Core i9-10900F  20M Cache, up to 5.20 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 41990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_10th_gen_comet_lake_core_i9_10900kf_20m_cache_up_to_5_30_ghz",
+    "name": "Intel 10th Gen Comet Lake Core i9-10900KF  20M Cache, up to 5.30 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 44999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_cascade_lake_x_core_i9_10900x_extreme_edition",
+    "name": "Intel Cascade Lake-X Core i9-10900X Extreme Edition",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 44998,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_cascade_lake_x_core_i9_10920x_extreme_edition",
+    "name": "Intel Cascade Lake-X Core i9-10920X Extreme Edition",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 60999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_cascade_lake_x_core_i9_10940x_extreme_edition",
+    "name": "Intel Cascade Lake-X Core i9-10940X Extreme Edition",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 66498,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_cascade_lake_x_core_i9_10980xe_extreme_edition",
+    "name": "Intel Cascade Lake-X Core i9-10980XE Extreme Edition",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 74098,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_athlon_3000g_processor_with_radeon_vega_3_graphics_2_cores_4_threads_with_base_clock_of_3_5ghz_and_5mb_cache_memory",
+    "name": "AMD ATHLON 3000G PROCESSOR WITH RADEON VEGA 3 GRAPHICS (2 CORES 4 THREADS,WITH BASE CLOCK OF 3.5GHz AND 5MB CACHE MEMORY)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 6599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_10th_gen_comet_lake_core_i5_10400f_12m_cache_up_to_4_30_ghz",
+    "name": "Intel 10th Gen Comet Lake Core i5-10400F  12M Cache, up to 4.30 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 8435,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "10th_gen_intel_core_i9_10900k_desktop_10_cores_up_to_5_3ghz_unlocked_lga1200_intel_400_series_chipset_125w_bx8070110900k",
+    "name": "10th Gen Intel\u00ae Core\u2122 i9-10900K Desktop  10 Cores up to 5.3GHz Unlocked LGA1200 (Intel\u00ae 400 Series chipset) 125W BX8070110900K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 34990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600x_processor",
+    "name": "AMD RYZEN 5 5600X PROCESSOR",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 11699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_5800x_processor",
+    "name": "AMD RYZEN 7 5800X PROCESSOR",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 17449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_5950x_processor",
+    "name": "AMD RYZEN 9 5950X PROCESSOR",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 32000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_pentium_gold_g6400_4m_cache_4_00_ghz_bx80701g6400",
+    "name": "Intel Pentium Gold G6400  (4M Cache, 4.00 GHz) BX80701G6400",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5898,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_9500f_lga1151_desktop_processor_6_cores_up_to_4_40ghz_9mb_cache",
+    "name": "Intel core i5 9500f lga1151 desktop processor 6 cores up to 4 40ghz 9mb cache",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 19990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "9th_gen_intel_core_i3_9350kf_desktop_4_cores_up_to_4_6ghz_unlocked_without_graphics_lga_1151_intel_300_series_chipset_91w_bx80684i39350kf",
+    "name": "9th Gen Intel\u00ae Core\u2122 i3-9350KF Desktop  4 Cores up to 4.6GHz Unlocked Without  Graphics LGA 1151 (Intel\u00ae 300 Series Chipset) 91W BX80684I39350KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 6150,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_7400",
+    "name": "Intel Core i5 7400",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 10399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_11900_11th_generation_rocket_lake",
+    "name": "Intel Core i9-11900 11th Generation Rocket Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29402,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_11900f_11th_generation_rocket_lake",
+    "name": "Intel Core i9-11900F 11th Generation Rocket Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 20199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_11900k_11th_generation_rocket_lake",
+    "name": "Intel Core i9-11900K 11th Generation Rocket Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 33550,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_11600k_12m_cache_up_to_4_90_ghz",
+    "name": "Intel Core i5-11600K  (12M Cache, up to 4.90 GHz)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 14998,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_11700k_16m_cache_up_to_5_00_ghz",
+    "name": "Intel Core i7-11700K  (16M Cache, up to 5.00 GHz)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 22400,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_11500_11th_generation_rocket_lake",
+    "name": "Intel Core i5-11500 11th Generation Rocket Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 22499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_11700_11th_generation_rocket_lake",
+    "name": "Intel Core i7-11700 11th Generation Rocket Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 21448,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "10th_gen_intel_core_i3_10105f_desktop_4_cores_up_to_4_4ghz_without_graphics_lga_1200_intel_400_series_chipset_65w",
+    "name": "10th Gen Intel\u00ae Core\u2122 i3-10105F Desktop  4 Cores up to 4.4GHz Without  Graphics LGA 1200 (Intel\u00ae 400 Series Chipset) 65W",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 8900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_11400f_2_60_ghz",
+    "name": "Intel Core i5-11400F 2.60 GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 10475,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_3_3200g_open_box_oem_processor_with_radeon_rx_vega_8_graphics_4_cores_4_threads_with_max_boost_clock_of_4ghz_base_clock_of_3_6ghz_and_6mb_game_cache",
+    "name": "AMD RYZEN 3 3200G OPEN BOX OEM PROCESSOR WITH RADEON RX VEGA 8 GRAPHICS (4 CORES 4 THREADS WITH MAX BOOST CLOCK OF 4GHz,BASE CLOCK OF 3.6GHz AND 6MB GAME CACHE)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5930,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_11400_desktop_processor",
+    "name": "INTEL CORE i5-11400 DESKTOP PROCESSOR",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600g_6_core",
+    "name": "AMD Ryzen 5 5600G 6 Core",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 12899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5700g_8_core",
+    "name": "AMD Ryzen 5 5700G 8 Core",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 16700,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i3_10105_3_7_ghz_quad_core_lga_1200_bx8070110105",
+    "name": "Intel Core i3-10105 3.7 GHz Quad-Core LGA 1200  BX8070110105",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 10155,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_pentium_gold_g6405_desktop_2_core_up_to_4_1_ghz_lga1200_intel_400_series_chipset_58w_bx80701g6405",
+    "name": "Intel\u00c2\u00ae Pentium\u00c2\u00ae Gold G6405 Desktop  2 Core up to 4.1 GHz LGA1200 (Intel\u00c2\u00ae 400 Series chipset) 58W BX80701G6405",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 6200,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_pentium_dual_core_g4560",
+    "name": "Intel Pentium Dual Core G4560",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 2875,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_a8_9600_bristol_ridge_quad_core_3_1_ghz_socket_am4_65w_amd_radeon_r7_graphics_desktop_ad9600agabbox",
+    "name": "AMD A8-9600 Bristol Ridge Quad-Core 3.1 GHz Socket AM4 65W AMD Radeon R7 Graphics Desktop  AD9600AGABBOX",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_12400_12th_gen_alder_lake",
+    "name": "Intel Core i5-12400 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 19295,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_12600k_12th_gen_alder_lake",
+    "name": "Intel Core i5-12600K 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 18390,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_12700_12th_gen_alder_lake",
+    "name": "Intel Core i7-12700 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 27295,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_12700k_12th_gen_alder_lake",
+    "name": "Intel Core i7-12700K 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 27122,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_12900_12th_gen_alder_lake",
+    "name": "Intel Core i9-12900 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 34318,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_12900k_12th_gen_alder_lake",
+    "name": "Intel Core i9-12900K 12th Gen Alder Lake",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 32425,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_12700kf_3_6_ghz_12_core_lga_1700_bx8071512700kf",
+    "name": "Intel Core i7-12700KF 3.6 GHz 12-Core LGA 1700  BX8071512700KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 22379,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_12400f_12th_gen_alder_lake_6_core_2_5_ghz_lga_1700_desktop_bx8071512400f",
+    "name": "Intel Core i5-12400F 12th Gen Alder Lake 6-Core 2.5 GHz LGA 1700 Desktop  BX8071512400F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 14350,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i3_12100f_desktop_processor_12m_cache_up_to_4_30ghz",
+    "name": "INTEL CORE I3-12100F DESKTOP PROCESSOR (12M CACHE, UP TO 4.30GHZ)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 9490,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_12700k_open_box_oem_25m_cache_up_to_5_00_ghz",
+    "name": "Intel Core i7-12700K Open Box OEM  (25M Cache, up to 5.00 GHz)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29140,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_cire_i7_12700f_12th_gen_alder_lake_12_core_lga1700_desktop_processor_bx8071512700f",
+    "name": "INTEL CIRE I7-12700F 12TH GEN ALDER LAKE 12-CORE LGA1700 DESKTOP PROCESSOR (BX8071512700F)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 21590,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_athlon_3000g_open_box_oem_with_radeon_vega_3_graphics_2_cores_4_threads_with_base_clock_of_3_5ghz_and_5mb_cache_memory",
+    "name": "AMD Athlon 3000G Open Box OEM  With Radeon Vega 3 Graphics (2 Cores 4 Threads,With Base Clock Of 3.5GHz And 5MB Cache Memory)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 4660,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_12500_3ghz_6_core_lga_1700_desktop_processor_bx8071512500",
+    "name": "INTEL CORE I5-12500 3GHZ 6 CORE LGA 1700 DESKTOP PROCESSOR (BX8071512500)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 21630,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i3_12100_desktop_processor_12m_cache_up_to_4_30_ghz",
+    "name": "INTEL CORE I3-12100 DESKTOP PROCESSOR (12M CACHE UP TO 4.30 GHZ)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5500_upto_4_2ghz_19mb_cache",
+    "name": "AMD Ryzen 5 5500  (Upto 4.2GHz 19MB Cache)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 7420,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_5700x_desktop_8_cores_16_threads_3_4ghz_100_100000926wof",
+    "name": "AMD Ryzen 7 5700X Desktop  (8 Cores/16 Threads/3.4GHz) 100-100000926WOF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 17050,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_12900ks_30m_cache_up_to_5_50_ghz",
+    "name": "Intel Core i9-12900KS  (30M Cache, up to 5.50 GHz)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 33949,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600_3_5ghz",
+    "name": "AMD Ryzen 5 5600 3.5GHz",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 11500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "12th_gen_intel_core_i9_12900f_desktop_16_cores_upto_5_10ghz_without_graphics_lga_1700_intel_600_series_chipset_65w_bx8071512900f",
+    "name": "12th Gen Intel Core i9-12900F Desktop  16 Cores Upto 5.10GHz without  Graphics LGA 1700 (Intel\u00c2\u00ae 600 Series Chipset) 65W BX8071512900F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 33648,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_dual_core_g7400_3_7_6mb_cache_3_70ghz",
+    "name": "INTEL DUAL CORE (G7400) 3.7 6MB Cache 3.70GHz",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 7998,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i3_10100f_10th_gen_oem",
+    "name": "Intel Core i3-10100F 10th Gen OEM",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 7450,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_7400t_7th_gen_oem",
+    "name": "Intel Core i5-7400T 7th Gen  OEM",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 5935,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_5965wx_3_8ghz",
+    "name": "AMD Ryzen Threadripper PRO 5965WX 3.8GHz",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 192924,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_5975wx_3_6ghz",
+    "name": "AMD Ryzen Threadripper PRO 5975WX 3.6GHz",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 179999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_5995wx",
+    "name": "Amd Ryzen Threadripper Pro 5995WX",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 489999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_7600x_desktop",
+    "name": "AMD Ryzen 5 7600X Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 17994,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_7700x_desktop",
+    "name": "AMD Ryzen 7 7700x Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 27985,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_7900x_desktop",
+    "name": "AMD Ryzen 9 7900X Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 34594,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_7950x_desktop",
+    "name": "AMD Ryzen 9 7950X Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 50033,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_5955wx_16_cores_32_threads_with_max_boost_clock_of_4_5ghz_base_clock_of_4_0ghz_and_72mb_cache_memory",
+    "name": "AMD Ryzen Threadripper Pro 5955WX  (16 Cores 32 Threads With Max Boost Clock Of 4.5GHz,Base Clock Of 4.0GHz and 72MB Cache Memory )",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 89999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_13600k_3_5_ghz_14_core_lga_1700_bx8071513600k",
+    "name": "Intel Core i5-13600K 3.5 GHz 14-Core LGA 1700  BX8071513600K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 22695,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_13600kf_3_5_ghz_14_core_lga_1700_bx8071513600kf",
+    "name": "Intel Core i5-13600KF 3.5 GHz 14-Core LGA 1700  BX8071513600KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 17990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i7_13700k_3_4_ghz_16_core_lga_1700_bx8071513700k",
+    "name": "Intel Core i7-13700K 3.4 GHz 16-Core LGA 1700  BX8071513700K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 30535,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_13900kf_3_ghz_24_core_lga_1700_bx8071513900kf",
+    "name": "Intel Core i9-13900KF 3 GHz 24-Core LGA 1700  BX8071513900KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 39999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_13th_gen_i7_13700kf_lga1700_unlocked_desktop_16_cores_up_to_5_4ghz_30mb_cache",
+    "name": "Intel Core 13th Gen i7-13700KF LGA1700 Unlocked Desktop  16 Cores up to 5.4GHz 30MB Cache",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 36250,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_13400_desktop_processor",
+    "name": "INTEL CORE i5-13400 DESKTOP PROCESSOR",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 20099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i5_13400f_desktop_processor",
+    "name": "INTEL CORE i5-13400F DESKTOP PROCESSOR",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 17390,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_13700f_raptor_lake_16_cores_24_threads_5_4_ghz_lga_1700_219w",
+    "name": "Intel i7-13700F  (Raptor Lake, 16-Cores, 24-Threads, 5.4 GHz, LGA 1700, 219W)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 27385,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i5_13500_raptor_lake_6_cores_20_threads_intel_uhd_graphics_770",
+    "name": "Intel i5-13500  (Raptor Lake, 6-Cores, 20-Threads, Intel\u00c2\u00ae UHD Graphics 770)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 23475,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_13700_raptor_lake_16_cores_24_threads_5_2_ghz_fclga1700_219w",
+    "name": "Intel i7-13700  (Raptor Lake, 16-Cores, 24-Threads, 5.2 GHz, FCLGA1700, 219W)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29955,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_13900f_raptor_lake_24_cores_32_threads_5_60_ghz_fclga1700_219w",
+    "name": "Intel i9-13900F  (Raptor Lake, 24-Cores, 32-Threads, 5.60 GHz, FCLGA1700, 219W)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 50648,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_13900_raptor_lake_24_cores_32_threads_intel_uhd_graphics_770_5_60_ghz_fclga1700_219w",
+    "name": "Intel i9-13900  (Raptor Lake, 24-Cores, 32-Threads, Intel\u00c2\u00ae UHD Graphics 770, 5.60 GHz, FCLGA1700, 219W)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 53198,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_13900ks_raptor_lake_24_cores_32_threads_intel_uhd_graphics_770_5_80_ghz_fclga1700_219w",
+    "name": "Intel i9-13900KS  (Raptor Lake, 24-Cores, 32-Threads, Intel\u00c2\u00ae UHD Graphics 770, 5.80 GHz, FCLGA1700, 219W)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 43699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_7600_gaming_desktop_100_100001015box",
+    "name": "Amd Ryzen 5 7600 Gaming Desktop  (100-100001015BOX)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 18149,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_7700_gaming_desktop_100_100000592box",
+    "name": "Amd Ryzen 7 7700 Gaming Desktop  (100-100000592BOX)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 27944,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_3_4300g_upto_4_0ghz_6mb_cache",
+    "name": "AMD Ryzen 3 4300G  (Upto 4.0GHz 6MB Cache)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 6270,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_7950x3d_16_cores_5_7ghz_145mb_cache",
+    "name": "AMD Ryzen 9 7950X3D 16 Cores 5.7GHz 145MB Cache",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 66198,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_7800x3d_gaming_100_100000910wof",
+    "name": "AMD Ryzen 7 7800X3D Gaming  100-100000910WOF",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 37595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_5955wx_oem_pack",
+    "name": "AMD Ryzen Threadripper PRO 5955WX  OEM Pack",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 98500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i5_14600k",
+    "name": "Intel i5-14600K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 21950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_14700k",
+    "name": "Intel i7-14700K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 39191,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_14700kf",
+    "name": "Intel i7-14700KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 34994,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_14900k",
+    "name": "Intel i9-14900K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 47499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_14900kf",
+    "name": "Intel i9-14900KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 46700,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_7970x_100_000001351_oem_open",
+    "name": "AMD Ryzen Threadripper 7970X 100-000001351 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 212015,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_7980x_100_000001350_oem_open",
+    "name": "AMD Ryzen Threadripper 7980X 100-000001350 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 499481,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_7965wx_100_100000885_oem_open",
+    "name": "AMD Ryzen Threadripper PRO 7965WX 100-100000885 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 247100,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_7975wx_100_100000453_oem_open",
+    "name": "AMD Ryzen Threadripper PRO 7975WX 100-100000453 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 388100,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_7985wx_100_100000454_oem_open",
+    "name": "AMD Ryzen Threadripper PRO 7985WX 100-100000454 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 706000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_7995wx_00_100000884_oem_open",
+    "name": "AMD Ryzen Threadripper PRO 7995WX 00-100000884 OEM OPEN",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 985000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i3_14100f",
+    "name": "Intel i3-14100F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 10495,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i3_14100",
+    "name": "Intel i3-14100",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 15049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i5_14400f",
+    "name": "Intel i5-14400F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 18499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i5_14400",
+    "name": "Intel i5-14400",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 25194,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i5_14500",
+    "name": "Intel i5-14500",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 23519,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_14700f",
+    "name": "Intel i7-14700F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 31199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i7_14700",
+    "name": "Intel i7-14700",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 36675,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_14900f",
+    "name": "Intel i9-14900F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 49448,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_i9_14900",
+    "name": "Intel i9-14900",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 56499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_8500g_with_radeon_graphics_up_to_5_0ghz_22mb_cache",
+    "name": "AMD Ryzen 5 8500G  with Radeon Graphics (Up to 5.0GHz 22MB Cache)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 14294,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_8600g_with_radeon_graphics_up_to_5_0ghz_22mb_cache",
+    "name": "AMD Ryzen 5 8600G  with Radeon Graphics (Up to 5.0GHz 22MB Cache)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 19099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_8700g_with_radeon_graphics_up_to_5_1ghz_24mb_cache",
+    "name": "AMD Ryzen 7 8700G  with Radeon Graphics (Up to 5.1GHz 24MB Cache)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 27619,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5500gt_ryzen_5_5000_series_6_core_3_6_ghz_socket_am4_65w_amd_radeon_graphics_100_100001489box",
+    "name": "AMD Ryzen 5 5500GT Ryzen 5 5000 Series 6-Core 3.6 GHz Socket AM4 65W AMD Radeon Graphics  100-100001489BOX",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 11789,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600gt_ryzen_5_5000_series_6_core_3_6_ghz_socket_am4_65w_amd_radeon_graphics_100_100001488box",
+    "name": "AMD Ryzen 5 5600GT Ryzen 5 5000 Series 6-Core 3.6 GHz Socket AM4 65W AMD Radeon Graphics  100-100001488BOX",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13679,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_i9_14900ks_14th_gen_desktop_i9_14900ks",
+    "name": "Intel Core I9 14900KS 14th Gen Desktop  (i9-14900KS)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 45968,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_7800x3d_gaming_oem_pack_no_stock_cooler",
+    "name": "AMD Ryzen 7 7800X3D Gaming  OEM Pack no stock cooler",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 35500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_8400f_desktop_100_100001591box",
+    "name": "AMD Ryzen 5 8400F Desktop  100-100001591BOX",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 13799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_8700f_desktop_100_100001590box",
+    "name": "AMD Ryzen 7 8700F Desktop  100-100001590BOX",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 24100,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_5900xt_100_100001581wof",
+    "name": "AMD Ryzen 9 5900XT  100-100001581WOF",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 27935,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_5800xt_100_100001582box",
+    "name": "AMD Ryzen 7 5800XT  100-100001582BOX",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 24845,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_9600x_with_radeon_graphics_6_cores_12_threads_max_boost_clock_up_to_5_4ghz_am5_socket_and_38mb_cache",
+    "name": "AMD Ryzen 5 9600X  with Radeon Graphics (6 Cores, 12 Threads, Max. Boost Clock Up To 5.4GHz, AM5 Socket and 38MB Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 20999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_9700x_with_radeon_graphics_8_cores_16_threads_max_boost_clock_up_to_5_5ghz_am5_socket_and_40mb_cache",
+    "name": "AMD Ryzen 7 9700X  with Radeon Graphics (8 Cores, 16 Threads, Max. Boost Clock Up To 5.5GHz, AM5 Socket and 40MB Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29944,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_9950x_with_radeon_graphics_16_cores_32_threads_max_boost_clock_up_to_5_7ghz_am5_socket_and_80mb_cache",
+    "name": "AMD Ryzen 9 9950X  with Radeon Graphics (16 Cores, 32 Threads, Max. Boost Clock Up To 5.7GHz, AM5 Socket and 80MB Cache)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 55699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_5_245k_desktop",
+    "name": "Intel Core Ultra 5 245K Desktop",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 20499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_7_265k_3_9_ghz_20_core_lga_1851",
+    "name": "Intel Core Ultra 7 265K 3.9 GHz 20-Core LGA 1851",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29994,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_7_265kf_3_9_ghz_20_core_lga_1851_bx80768265kf",
+    "name": "Intel Core Ultra 7 265KF 3.9 GHz 20-Core LGA 1851  BX80768265KF",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 29899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_9_285k",
+    "name": "Intel Core Ultra 9 285K",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 56699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_7_9800x3d_with_radeon_graphics_8_cores_16_threads_up_to_5_2ghz_104mb_cache_am5_socket",
+    "name": "AMD Ryzen 7 9800X3D  with Radeon Graphics (8 Cores, 16 Threads, Up to 5.2GHz, 104MB Cache, AM5 Socket)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 45248,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_9900x_with_radeon_graphics_12_cores_24_threads_with_max_boost_clock_of_up_to_5_6ghz_base_clock_of_4_4ghz_am5_socket_and_76mb_cache_memory",
+    "name": "AMD Ryzen 9 9900X  with Radeon Graphics (12 Cores 24 Threads with Max Boost Clock of up to 5.6GHz, Base Clock of 4.4GHz, AM5 Socket and 76MB Cache Memory)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 41399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_9950x_3d_desktop",
+    "name": "AMD Ryzen 9 9950X 3D Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 67499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_9_9900x_3d_desktop",
+    "name": "AMD Ryzen 9 9900X 3D Desktop",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 56199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_5_225f",
+    "name": "Intel Core Ultra 5 225F",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 14599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "intel_core_ultra_5_225_4_9_ghz_10_core_10threads",
+    "name": "INTEL Core Ultra 5 225  ( 4.9 GHz / 10 Core/10Threads)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 16449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_7500f_6_core_12_threads_5ghz_boost_clock_box_pack",
+    "name": "AMD Ryzen 5 7500F 6 Core 12 threads 5Ghz Boost Clock Box Pack",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13849,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_9955wx_workstation_tray_100_100000725",
+    "name": "AMD Ryzen Threadripper Pro 9955WX Workstation  Tray(100-100000725)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 168845,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_9970x_workstation_100_100001594",
+    "name": "AMD Ryzen Threadripper 9970X Workstation  (100-100001594)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 254999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_9995wx_workstation_tray_100_100001361",
+    "name": "AMD Ryzen Threadripper Pro 9995WX Workstation  Tray (100-100001361)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 999999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_9985wx_workstation_tray_100_000000722",
+    "name": "AMD Ryzen Threadripper Pro 9985WX Workstation  Tray(100-000000722)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 824999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_9975wx_workstation_tray_100_100000723",
+    "name": "AMD Ryzen Threadripper Pro 9975WX Workstation  Tray(100-100000723)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 424445,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_pro_9965wx_workstation_tray_100_100000724",
+    "name": "AMD Ryzen Threadripper Pro 9965WX Workstation  Tray(100-100000724)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 297945,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_9980x_workstation_tray_100_100001593",
+    "name": "AMD Ryzen Threadripper 9980X Workstation  Tray(100-100001593)",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 518845,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_threadripper_9960x_workstation_tray_100_100001595",
+    "name": "AMD Ryzen Threadripper 9960X Workstation  Tray 100-100001595",
+    "category": "cpu",
+    "brand": "AMD",
+    "price_inr": 154499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600xt_5th_generation_4_7ghz_6_cores_12_threads",
+    "name": "AMD Ryzen 5 5600XT 5th Generation  ( 4.7GHz / 6 Cores / 12 Threads )",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 13795,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "amd_ryzen_5_5600f_am4_desktop_4_ghz_6_cores_12_threads",
+    "name": "AMD Ryzen 5 5600F AM4 Desktop  (4 GHz / 6 Cores / 12 Threads)",
+    "category": "cpu",
+    "brand": "Intel",
+    "price_inr": 9384,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  }
+]

@@ -1,0 +1,23 @@
+RAM (Random Access Memory) temporarily stores data that the CPU and applications actively use, enabling fast access and smooth system performance.
+
+Insufficient RAM can cause system slowdowns, application crashes, and increased reliance on slower storage-based virtual memory.
+
+8GB of RAM is suitable only for basic tasks such as web browsing, office applications, and light workloads. It is not recommended for modern gaming or development environments.
+
+16GB of RAM is the recommended minimum for gaming, software development, multitasking, and general productivity. It provides a balance between performance, responsiveness, and cost.
+
+32GB or more RAM is beneficial for professional workloads such as video editing, 3D modeling, virtualization, large software builds, and AI or machine learning development.
+
+Increasing RAM capacity improves multitasking performance but does not significantly increase gaming frame rates beyond recommended levels unless the system was previously memory-limited.
+
+RAM speed influences data transfer rates between the CPU and memory. Higher memory speeds can improve performance in certain applications, especially when paired with compatible CPUs and motherboards.
+
+Memory latency also affects performance, particularly in CPU-intensive tasks and gaming scenarios where fast access times are important.
+
+Modern systems commonly use DDR4 or DDR5 memory. DDR5 offers higher bandwidth and improved efficiency but requires compatible CPUs and motherboards.
+
+RAM modules must match the supported memory type, speed, and capacity limits of the motherboard to ensure system stability.
+
+Using dual-channel memory configurations improves memory bandwidth and overall system performance compared to single-channel setups.
+
+Choosing the appropriate RAM capacity and configuration ensures smooth application performance, system stability, and future upgrade flexibility.

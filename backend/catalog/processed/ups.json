@@ -1,0 +1,152 @@
+[
+  {
+    "id": "microtek_legend_650va_desktop_ups_(legend-650va)",
+    "name": "Microtek Legend 650VA Desktop Ups (LEGEND-650VA)",
+    "category": "ups",
+    "brand": "Microtek",
+    "capacity_va": 650,
+    "price_inr": 2559,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "microtek_legend_1000va_desktop_ups_(899-le0-1001)",
+    "name": "Microtek Legend 1000VA Desktop Ups (899-LE0-1001)",
+    "category": "ups",
+    "brand": "Microtek",
+    "capacity_va": 1000,
+    "price_inr": 5900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cyberpower_ut1200e_1200va_ups_(ut1200e)",
+    "name": "CyberPower UT1200E 1200VA Ups (UT1200E)",
+    "category": "ups",
+    "brand": "CyberPower",
+    "capacity_va": 1200,
+    "price_inr": 4990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cyberpower_1500va_ups_(_ut1500e)",
+    "name": "CyberPower 1500VA UPS ( UT1500E)",
+    "category": "ups",
+    "brand": "CyberPower",
+    "capacity_va": 1500,
+    "price_inr": 6890,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_2200va_easy-ups_with_avr_(bvx2200li-in)",
+    "name": "Apc 2200VA Easy-Ups With Avr (BVX2200LI-IN)",
+    "category": "ups",
+    "brand": "Apc",
+    "capacity_va": 2200,
+    "price_inr": 16200,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_1.1kva_230v_back-ups_(bx1100c-in)",
+    "name": "Apc 1.1KVA 230V Back-UPS (BX1100C-IN)",
+    "category": "ups",
+    "brand": "Apc",
+    "capacity_va": 0,
+    "price_inr": 7249,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_1.5kva_230v_back-ups_(br1500g-in)",
+    "name": "Apc 1.5KVA 230V Back-UPS (BR1500G-IN)",
+    "category": "ups",
+    "brand": "Apc",
+    "capacity_va": 0,
+    "price_inr": 16990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_1kva_230v_back-ups_pro_1000_with_lcd_(br1000g)",
+    "name": "Apc 1KVA 230V Back-UPS Pro 1000 With LCD (BR1000G)",
+    "category": "ups",
+    "brand": "Apc",
+    "capacity_va": 0,
+    "price_inr": 12890,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_600va_230v_back-ups_(bx600c-in)",
+    "name": "Apc 600VA 230V Back-UPS (BX600C-IN)",
+    "category": "ups",
+    "brand": "Apc",
+    "capacity_va": 600,
+    "price_inr": 3449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cyberpower_bu1000e_1000va_ups",
+    "name": "CyberPower BU1000E 1000VA UPS",
+    "category": "ups",
+    "brand": "CyberPower",
+    "capacity_va": 1000,
+    "price_inr": 4490,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cyberpower_ut2200e_2200va_ups",
+    "name": "CyberPower UT2200E 2200VA UPS",
+    "category": "ups",
+    "brand": "CyberPower",
+    "capacity_va": 2200,
+    "price_inr": 7990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "bpe_online_ups_mf1101b3_1kva_with_built-in_pwm_technology_and_lcd_display",
+    "name": "BPE Online UPS MF1101B3 1KVA With Built-In PWM Technology and LCD display",
+    "category": "ups",
+    "brand": "BPE",
+    "capacity_va": 0,
+    "price_inr": 16390,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "vertiv_libert_iton_cx_600va-360w_230v_ups_for_home_office_desktop_pc",
+    "name": "Vertiv Libert Iton CX 600VA-360W 230v Ups For Home Office Desktop Pc",
+    "category": "ups",
+    "brand": "Vertiv",
+    "capacity_va": 600,
+    "price_inr": 2690,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "apc_bx600i-in_600va_230v_back-ups_(black)",
+    "name": "APC BX600I-IN 600VA 230V Back-UPS (Black)",
+    "category": "ups",
+    "brand": "APC",
+    "capacity_va": 600,
+    "price_inr": 3749,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "numeric_digital_600ex-v_600va_ups",
+    "name": "Numeric Digital 600EX-V 600va Ups",
+    "category": "ups",
+    "brand": "Numeric",
+    "capacity_va": 600,
+    "price_inr": 2590,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  }
+]

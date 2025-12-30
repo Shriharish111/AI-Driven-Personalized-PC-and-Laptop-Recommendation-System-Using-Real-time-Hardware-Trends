@@ -1,0 +1,27 @@
+The CPU (Central Processing Unit) is responsible for executing instructions, handling application logic, managing operating system tasks, and coordinating system resources.
+
+CPU performance is influenced by multiple factors including core count, thread count, clock speed, cache size, and architectural efficiency.
+
+Entry-level CPUs typically feature 2 to 4 cores and are suitable for basic tasks such as web browsing, office applications, and light programming. These processors may struggle with modern games and heavy multitasking workloads.
+
+Mid-range CPUs usually offer 6 to 8 cores with simultaneous multi-threading. They are ideal for gaming, software development, multitasking, and content creation. This category provides the best balance between performance, efficiency, and cost for most users.
+
+High-end CPUs feature 10 or more cores and are designed for professional workloads such as video rendering, 3D animation, virtualization, server applications, and AI model training. These processors excel in parallel workloads but may offer limited additional benefits for gaming compared to mid-range CPUs.
+
+For gaming-focused systems, strong single-core performance is often more important than extremely high core counts, as many games rely heavily on per-core speed rather than full parallel execution.
+
+Clock speed, measured in GHz, represents how fast a CPU can process instructions. Higher clock speeds generally improve responsiveness and gaming performance, but architectural efficiency also plays a major role.
+
+CPU cache (L1, L2, and L3) stores frequently accessed data closer to the processor cores, reducing latency and improving performance in repeated tasks and gaming scenarios.
+
+Thermal design power (TDP) indicates the heat output of a CPU under typical workloads. CPUs with higher TDP values require better cooling solutions to maintain stable performance.
+
+Modern CPUs include integrated security features, power management technologies, and hardware acceleration for tasks such as encryption, virtualization, and multimedia processing.
+
+Integrated graphics present in some CPUs allow systems to function without a dedicated GPU, making them suitable for office systems and budget builds, but they are not recommended for gaming or GPU-intensive workloads.
+
+CPU compatibility depends on the motherboard socket and chipset. A CPU must match the correct socket type, and the motherboard chipset determines supported features such as memory speed, overclocking, and expansion capabilities.
+
+Overclocking-capable CPUs allow users to increase clock speeds beyond factory settings, but require compatible motherboards and adequate cooling to ensure stability and component longevity.
+
+Choosing the right CPU ensures balanced system performance, avoids bottlenecks, and supports both current workloads and future software requirements.

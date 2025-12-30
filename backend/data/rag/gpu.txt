@@ -1,0 +1,27 @@
+The GPU (Graphics Processing Unit) is responsible for rendering graphics, accelerating visual workloads, and performing massively parallel computations.
+
+GPU performance directly affects gaming frame rates, rendering speed, video processing, and AI or machine learning workloads.
+
+Entry-level GPUs are designed for basic display output, casual gaming, and older or lightweight titles. These GPUs typically struggle with modern AAA games and high-resolution rendering.
+
+Mid-range GPUs usually feature 8GB to 12GB of video memory (VRAM) and are ideal for 1080p gaming, esports titles, video editing, and general-purpose GPU acceleration. This category offers the best balance between performance and cost for most users.
+
+High-end GPUs provide more than 12GB of VRAM and significantly higher computational power. They are recommended for 1440p and 4K gaming, professional rendering, 3D modeling, video production, and AI workloads such as deep learning and large-scale data processing.
+
+VRAM capacity plays a critical role in handling high-resolution textures, complex scenes, video timelines, and large AI datasets. Insufficient VRAM can cause stuttering, crashes, or performance degradation.
+
+Modern GPUs consist of thousands of small processing cores optimized for parallel workloads. This architecture makes GPUs highly effective for tasks such as rendering, physics simulation, video encoding, and machine learning.
+
+NVIDIA GPUs offer strong support for CUDA, Tensor cores, and AI acceleration frameworks, making them widely used in machine learning, data science, and professional applications.
+
+AMD GPUs generally provide competitive gaming performance and often deliver better price-to-performance ratios, especially in gaming-focused builds.
+
+Ray tracing is a GPU feature that simulates realistic lighting, reflections, and shadows. While it improves visual realism, it significantly increases GPU workload and requires capable hardware for smooth performance.
+
+Upscaling technologies allow GPUs to render games at lower resolutions and upscale them to higher resolutions, improving performance while maintaining image quality.
+
+Power consumption and thermal output increase with GPU performance. High-performance GPUs require adequate power supply capacity and proper case airflow to maintain stability.
+
+GPU compatibility depends on motherboard expansion slots, case clearance, and power supply connectors. Larger GPUs may not fit in compact cases or low-power systems.
+
+Selecting the appropriate GPU ensures smooth gaming performance, efficient rendering, and reliable acceleration for creative and AI workloads without unnecessary overspending.

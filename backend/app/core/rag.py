@@ -1,40 +1,21 @@
-import numpy as np
-import faiss
+from app.core.embeddings import embed_text, load_faiss_index
 
-from app.core.embeddings import (
-    generate_embeddings,
-    load_faiss_index,
-    load_pc_part_texts,
-)
+VECTOR_INDEX_PATH = "backend/vector_store/rag_knowledge.faiss"
 
 
-
-
-
-def retrieve_relevant_parts(user_query: str, top_k: int = 5) -> list[str]:
+def retrieve_relevant_parts(user_intent: str, top_k: int = 5) -> list[str]:
     """
-    Retrieve top-k relevant PC part descriptions for a given user query.
+    Retrieve relevant hardware knowledge using RAG.
     """
-    # Load FAISS index
-    index = load_faiss_index()
+    query_embedding = embed_text(user_intent)
 
-    # Load original PC part texts
-    pc_part_texts = load_pc_part_texts()
+    index, texts = load_faiss_index(VECTOR_INDEX_PATH)
 
-    # Generate embedding for user query
-    query_embedding = generate_embeddings([user_query])
-    query_vector = np.array(query_embedding).astype("float32")
+    distances, indices = index.search(query_embedding, top_k)
 
-    # Normalize query vector for cosine similarity
-    faiss.normalize_L2(query_vector)
-
-    # Perform similarity search
-    distances, indices = index.search(query_vector, top_k)
-
-    # Map indices to PC part texts
-    retrieved_texts = []
+    results = []
     for idx in indices[0]:
-        if idx < len(pc_part_texts):
-            retrieved_texts.append(pc_part_texts[idx])
+        if idx < len(texts):
+            results.append(texts[idx])
 
-    return retrieved_texts
+    return results

@@ -1,0 +1,23 @@
+The PSU (Power Supply Unit) provides electrical power to all components in the system and plays a critical role in system stability, safety, and longevity.
+
+A reliable PSU ensures consistent voltage delivery to the CPU, GPU, motherboard, storage, and other components, preventing crashes and hardware damage.
+
+Low-quality or insufficient power supplies can cause system instability, unexpected shutdowns, component failure, and reduced hardware lifespan.
+
+PSU wattage determines how much total power can be delivered to the system. Gaming and high-performance systems require higher wattage to support powerful CPUs and GPUs.
+
+Choosing a PSU with additional wattage headroom allows for stable operation, peak load handling, and future component upgrades.
+
+PSU efficiency ratings indicate how effectively electrical power is converted and delivered. Higher efficiency reduces wasted energy, heat generation, and power consumption.
+
+Modular and semi-modular power supplies allow users to connect only the required cables, improving airflow and cable management inside the case.
+
+Non-modular power supplies include all cables permanently attached and are generally more affordable but less flexible for clean builds.
+
+Power supply connectors must match the requirements of system components, including motherboard power, CPU power, and GPU power connectors.
+
+Modern GPUs often require dedicated high-power connectors, making PSU compatibility an important consideration for gaming and AI workloads.
+
+PSU form factor affects physical compatibility with the case. Most standard systems use common PSU form factors, but compact cases may require smaller units.
+
+Selecting a high-quality PSU ensures system reliability, protects components from electrical issues, and supports long-term performance and upgradeability.

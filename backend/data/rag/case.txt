@@ -1,0 +1,21 @@
+The PC case houses and protects all internal components while supporting airflow, cooling, and physical compatibility.
+
+A well-designed case helps maintain optimal component temperatures, reduces thermal throttling, and improves overall system stability.
+
+Airflow is a critical factor in case selection. Cases with good ventilation and multiple fan mounting options allow better heat dissipation for CPUs and GPUs.
+
+Poor airflow can cause higher temperatures, reduced performance, and shortened component lifespan, especially in gaming and high-performance systems.
+
+Compact cases are suitable for space-saving builds but may limit cooling options, GPU size compatibility, and future upgrades.
+
+Mid-sized cases provide a balance between size, airflow, and component compatibility, making them suitable for most gaming and productivity systems.
+
+Larger cases offer better airflow, easier cable management, and support for high-end components, but require more physical space.
+
+Case compatibility depends on motherboard form factor, GPU length, CPU cooler height, and power supply size.
+
+Proper cable management improves airflow, simplifies maintenance, and enhances system aesthetics.
+
+Support for additional cooling options such as multiple fans or liquid cooling radiators is important for performance-focused builds.
+
+Choosing an appropriate case ensures good thermal performance, ease of assembly, component protection, and long-term upgrade flexibility.

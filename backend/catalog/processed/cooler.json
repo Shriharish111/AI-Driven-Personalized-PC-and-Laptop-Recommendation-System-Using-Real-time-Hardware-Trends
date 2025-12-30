@@ -1,0 +1,3712 @@
+[
+  {
+    "id": "antec_a40_pro_92mm_cpu_air_cooler",
+    "name": "Antec A40 Pro 92mm Cpu Air Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Air",
+    "price_inr": 1305,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_ux100_argb_lighting_120mm_cpu_air_cooler_(cl-p064-al12sw-a)",
+    "name": "Thermaltake UX100 ARGB Lighting 120mm CPU Air Cooler (CL-P064-AL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 1190,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_ux200_argb_lighting_120mm_cpu_air_cooler_(cl-p065-al12sw-a)",
+    "name": "Thermaltake UX200 ARGB Lighting 120mm CPU Air Cooler (CL-P065-AL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 2380,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_water_3.0_120_argb_sync_all_in_one_120mm_cpu_liquid_cooler_(cl-w232-pl12sw-a)",
+    "name": "Thermaltake Water 3.0 120 ARGB Sync All In One 120mm Cpu Liquid Cooler (CL-W232-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 335498,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th240_argb_all_in_one_240mm_cpu_liquid_cooler_(cl-w286-pl12sw-a)",
+    "name": "Thermaltake TH240 ARGB All In One 240mm CPU Liquid Cooler (CL-W286-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 9049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_argb_all_in_one_360mm_cpu_liquid_cooler",
+    "name": "Thermaltake TH360 ARGB All In One 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 8899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_hydro_series_h115i_pro_rgb_280mm_liquid_cpu_cooler_cw-9060032-ww",
+    "name": "Corsair Hydro Series H115i PRO RGB 280mm Liquid CPU Cooler CW-9060032-WW",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 11800,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_hydro_series,_h115i_rgb_platinum,_280mm_radiator,_dual_140mm_ml_series_pwm_fans,_rgb_lighting_and_fan_control_with_software,_liquid_cpu_cooler",
+    "name": "Corsair Hydro Series, H115i RGB PLATINUM, 280mm Radiator, Dual 140mm ML Series PWM Fans, RGB Lighting and Fan Control with Software, Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 13759,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h115i_rgb_pro_xt_all_in_one_280mm_cpu_liquid_cooler",
+    "name": "CORSAIR iCUE H115i RGB PRO XT All In One 280mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "CORSAIR",
+    "type": "Liquid",
+    "price_inr": 10000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gamma_archer_120mm_cpu_air_cooler_(dp-mcal-ga)",
+    "name": "Deepcool Gamma Archer 120mm CPU Air Cooler (DP-MCAL-GA)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gammaxx_gt_a-rgb_120mm_cpu_air_cooler_(dp-mch4-gmx-gt-argb)",
+    "name": "Deepcool GAMMAXX GT A-RGB 120mm CPU Air Cooler (DP-MCH4-GMX-GT-ARGB)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2730,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_celsius+_s24_prisma_argb_all_in_one_240mm_cpu_liquid_cooler_(fd-w-2-s2402)",
+    "name": "Fractal Design Celsius+ S24 Prisma ARGB All In One 240mm CPU Liquid Cooler (FD-W-2-S2402)",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Liquid",
+    "price_inr": 16579,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_360_argb_all_in_one_360mm_cpu_liquid_cooler_(white)",
+    "name": "LIAN LI GALAHAD 360 ARGB All In One 360mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "LIAN",
+    "type": "Liquid",
+    "price_inr": 11499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_240r_cpu_cooler",
+    "name": "MSI MAG CORELIQUID 240R CPU Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 7199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml240l_v2_rgb_(mlw-d24m-a18pc-r2)",
+    "name": "COOLER MASTER MASTERLIQUID ML240L V2 RGB (MLW-D24M-A18PC-R2)",
+    "category": "cooler",
+    "brand": "COOLER",
+    "type": "Liquid",
+    "price_inr": 6299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml360l_argb_v2_all_in_one_360mm_cpu_liquid_cooler_(mlw-d36m-a18pa-r2)",
+    "name": "Cooler Master MasterLiquid ML360L ARGB V2 All In One 360mm CPU Liquid Cooler (MLW-D36M-A18PA-R2)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 9235,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml240r_rgb_cooler",
+    "name": "Cooler Master MASTERLIQUID ML240R RGB Cooler",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 7294,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml240p_mirage",
+    "name": "Cooler Master MasterLiquid ML240P Mirage",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 7499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml360p_silver_edition_all_in_one_360mm_cpu_liquid_cooler_(mly-d36m-a18pa-r1)",
+    "name": "Cooler Master MasterLiquid ML360P Silver Edition All In One 360mm CPU Liquid Cooler (MLY-D36M-A18PA-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 13999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_neptune_120_argb_advanced_all_in_one_120mm_cpu_liquid_cooler",
+    "name": "Antec Neptune 120 ARGB Advanced All in One 120mm Cpu Liquid Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Liquid",
+    "price_inr": 5180,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-d15_chromax_pure_black_cpu_cooler_with_dual_140m_fans",
+    "name": "Noctua NH-D15 Chromax Pure Black CPU Cooler with Dual 140m Fans",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9249,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_x63_argb_all_in_one_280mm_cpu_liquid_cooler_and_cam_compatible_with_aer_rgb_fan_(rl-krx63-r1)",
+    "name": "NZXT Kraken X63 ARGB All In One 280mm CPU Liquid Cooler And CAM Compatible With AER RGB Fan (RL-KRX63-R1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 14999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_ryujin_360_aura_sync_rgb_all_in_one_360mm_cpu_liquid_cooler_with_oled_display",
+    "name": "ASUS ROG RYUJIN 360 AURA SYNC RGB ALL IN ONE 360MM CPU LIQUID COOLER WITH OLED DISPLAY",
+    "category": "cooler",
+    "brand": "ASUS",
+    "type": "Liquid",
+    "price_inr": 20980,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_i70_120mm_cpu_air_cooler_(rr-i70-20fk-r1)",
+    "name": "Cooler Master I70 120mm Cpu Air Cooler (RR-I70-20FK-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 898,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_hyper_t20_95mm_cpu_air_cooler_(rr-t20-20fk-r1)",
+    "name": "Cooler Master HYPER T20 95mm CPU Air Cooler (RR-T20-20FK-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 1055,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h150i_rgb_pro_xt_liquid_cpu_cooler_cw-9060045-ww",
+    "name": "Corsair iCUE H150i RGB PRO XT Liquid CPU Cooler CW-9060045-WW",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 15059,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-d15_140mm_cpu_air_cooler",
+    "name": "Noctua NH-D15 140mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 8845,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-l12s_120mm_cpu_air_cooler",
+    "name": "Noctua NH-L12S 120mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 5269,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u12s_120mm_cpu_air_cooler",
+    "name": "Noctua NH-U12S 120mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 5595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u14s_140mm_cpu_air_cooler",
+    "name": "Noctua NH-U14S 140mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 7595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u14s_tr4-sp3_140mm_cpu_air_cooler_(for_amd_strx4/tr4/sp3)",
+    "name": "Noctua NH-U14S TR4-SP3 140mm CPU Air Cooler (For AMD sTRX4/TR4/SP3)",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u9s_chromax_black_92mm_cpu_air_cooler",
+    "name": "Noctua NH-U9S Chromax Black 92mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 6595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "silverstone_360mm_high-performance_argb_aio_liquid_cooler_sst-ig360-argb",
+    "name": "Silverstone 360mm high-performance ARGB AIO liquid cooler SST-IG360-ARGB",
+    "category": "cooler",
+    "brand": "Silverstone",
+    "type": "Liquid",
+    "price_inr": 12154,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "silverstone_icegem_240p_240mm_high-performance_argb_aio_liquid_cooler_sst-ig240p-argb",
+    "name": "Silverstone IceGem 240P 240mm high-performance ARGB AIO liquid cooler SST-IG240P-ARGB",
+    "category": "cooler",
+    "brand": "Silverstone",
+    "type": "Liquid",
+    "price_inr": 9479,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "silverstone_pf240w-argb_all_in_one_240mm_white_cpu_liquid_cooler_sst-pf240w-argb",
+    "name": "SilverStone PF240W-ARGB All in One 240mm White CPU Liquid Cooler SST-PF240W-ARGB",
+    "category": "cooler",
+    "brand": "SilverStone",
+    "type": "Liquid",
+    "price_inr": 5200,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "silverstone_pf240-argb_all_in_one_240mm_cpu_liquid_cooler_sst-pf240-argb",
+    "name": "SilverStone PF240-ARGB All in One 240mm CPU Liquid Cooler SST-PF240-ARGB",
+    "category": "cooler",
+    "brand": "SilverStone",
+    "type": "Liquid",
+    "price_inr": 4950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gammaxx_l360_argb_cpu_liquid_cooler_(dp-h12cf-gl360-argb)",
+    "name": "DEEPCOOL GAMMAXX L360 ARGB CPU LIQUID COOLER (DP-H12CF-GL360-ARGB)",
+    "category": "cooler",
+    "brand": "DEEPCOOL",
+    "type": "Liquid",
+    "price_inr": 6903,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h150i_elite_capellix,_360mm_radiator,_triple_120mm_ml_series_pwm_fans,_rgb_lighting_and_fan_control_with_software,_liquid_cpu_cooler",
+    "name": "Corsair iCUE H150i Elite Capellix, 360mm Radiator, Triple 120mm ML Series PWM Fans, RGB Lighting and Fan Control with Software, Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 15149,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u12s_chromax_pure_black_cpu_cooler",
+    "name": "Noctua NH-U12S Chromax Pure Black CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 6681,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_chione_e2-120_lite_argb_cpu_liquid_cooler",
+    "name": "GAMDIAS CHIONE E2-120 LITE ARGB CPU LIQUID COOLER",
+    "category": "cooler",
+    "brand": "GAMDIAS",
+    "type": "Liquid",
+    "price_inr": 3799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th240_argb_snow_edition_aio_liquid_cooler",
+    "name": "THERMALTAKE TH240 ARGB SNOW EDITION AIO LIQUID COOLER",
+    "category": "cooler",
+    "brand": "THERMALTAKE",
+    "type": "Liquid",
+    "price_inr": 6740,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_argb_snow_edition_aio_liquid_cooler",
+    "name": "THERMALTAKE TH360 ARGB SNOW EDITION AIO LIQUID COOLER",
+    "category": "cooler",
+    "brand": "THERMALTAKE",
+    "type": "Liquid",
+    "price_inr": 7199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-c14s_cpu_cooler",
+    "name": "Noctua NH-C14S CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 7249,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u14s_dx-3647_premium_quality_quiet_140mm_cpu_cooler_intel_xeon_lga3647",
+    "name": "Noctua NH-U14S DX-3647 Premium Quality Quiet 140mm CPU Cooler Intel Xeon LGA3647",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_strix_lc_240_rgb_aio_liquid_cpu_cooler",
+    "name": "ASUS ROG Strix LC 240 RGB AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "ASUS",
+    "type": "Liquid",
+    "price_inr": 13800,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_strix_lc_240_rgb_white_aio_liquid_cpu_cooler",
+    "name": "ASUS ROG Strix LC 240 RGB White AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "ASUS",
+    "type": "Liquid",
+    "price_inr": 8999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterair_ma624_stealth",
+    "name": "Cooler Master MasterAir MA624 Stealth",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 8399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gamerstorm_castle_360ex_argb_white_cpu_cooler",
+    "name": "Deepcool Gamerstorm CASTLE 360EX ARGB WHITE CPU Cooler",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 9625,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-d15s_chromax_black_cpu_cooler",
+    "name": "Noctua NH-D15S Chromax Black CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9545,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h100i_elite_capellix_white,_240mm_radiator,_dual_120mm_ml_series_pwm_fans,_rgb_lighting_and_fan_control_with_software,_liquid_cpu_cooler",
+    "name": "Corsair iCUE H100i Elite Capellix White, 240mm Radiator, Dual 120mm ML Series PWM Fans, RGB Lighting and Fan Control with Software, Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 11499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h150i_elite_capellix_liquid_cpu_cooler_(white)_(cw-9060051-ww)",
+    "name": "CORSAIR ICUE H150I ELITE CAPELLIX LIQUID CPU COOLER (WHITE) (CW-9060051-WW)",
+    "category": "cooler",
+    "brand": "CORSAIR",
+    "type": "Liquid",
+    "price_inr": 15499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_x_360_argb_liquid_cpu_cooler",
+    "name": "Gigabyte AORUS WATERFORCE X 360 ARGB Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 16289,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_5_argb_60mm_cpu_air_cooler",
+    "name": "Aerocool Mirage 5 ARGB 60mm CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Aerocool",
+    "type": "Air",
+    "price_inr": 2628,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_l120_argb_all_in_one_120mm_cpu_liquid_cooler_(black)",
+    "name": "AeroCool Mirage L120 ARGB All In One 120mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "AeroCool",
+    "type": "Liquid",
+    "price_inr": 3880,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_l240_argb_all_in_one_240mm_cpu_liquid_cooler_(black)",
+    "name": "AeroCool Mirage L240 ARGB All In One 240mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "AeroCool",
+    "type": "Liquid",
+    "price_inr": 5257,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_l240_argb_all_in_one_240mm_cpu_liquid_cooler_(white)",
+    "name": "AeroCool Mirage L240 ARGB All In One 240mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "AeroCool",
+    "type": "Liquid",
+    "price_inr": 5457,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_l360_argb_all_in_one_360mm_cpu_liquid_cooler_(black)",
+    "name": "Aerocool Mirage L360 ARGB All In One 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Aerocool",
+    "type": "Liquid",
+    "price_inr": 6759,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_mirage_l360_argb_all_in_one_360mm_cpu_liquid_cooler_(white)",
+    "name": "Aerocool Mirage L360 ARGB All In One 360mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Aerocool",
+    "type": "Liquid",
+    "price_inr": 7009,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-d9_dx-3647_4u_quiet_92mm_cpu_cooler",
+    "name": "Noctua NH-D9 DX-3647 4U Quiet 92mm CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 10425,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_h100_rgb_240mm_liquid_cpu_cooler",
+    "name": "Corsair H100 RGB 240mm Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 6450,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_h150_rgb_360mm_liquid_cpu_cooler",
+    "name": "Corsair H150 RGB 360mm Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 8499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_strix_lc_360_ii_argb_all_in_one_360mm_cpu_liquid_cooler",
+    "name": "Asus ROG Strix LC 360 II ARGB All In One 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Asus",
+    "type": "Liquid",
+    "price_inr": 21799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-p1_passive_cpu_cooler",
+    "name": "Noctua NH-P1 Passive CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 6295,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_lumen_s24_240mm_liquid_cooler_fd-w-l1-s2401",
+    "name": "Fractal Design Lumen S24 240mm Liquid Cooler FD-W-L1-S2401",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Liquid",
+    "price_inr": 10599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughair_510_cpu_cooler_(cl-p075-al12bl-a)",
+    "name": "Thermaltake TOUGHAIR 510 CPU Cooler (CL-P075-AL12BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 4025,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_360_argb_sync_all-in-one_liquid_cooler_(cl-w321-pl12bl-a)",
+    "name": "Thermaltake TOUGHLIQUID 360 ARGB Sync All-In-One Liquid Cooler (CL-W321-PL12BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 12199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughair_310_cpu_cooler_(cl-p074-al12bl-a)",
+    "name": "Thermaltake TOUGHAIR 310 CPU Cooler (CL-P074-AL12BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 3399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ek_aio_240_d-rgb_all_in_one_240mm_cpu_liquid_cooler",
+    "name": "EK AIO 240 D-RGB All in One 240mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "EK",
+    "type": "Liquid",
+    "price_inr": 10499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_240_argb_sync_all-in-one_liquid_cooler_(cl-w319-pl12bl-a)",
+    "name": "Thermaltake TOUGHLIQUID 240 ARGB Sync All-In-One Liquid Cooler (CL-W319-PL12BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 9299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak620_120mm_dual_fan_cpu_air_cooler_(r-ak620-bknnmt-g)",
+    "name": "Deepcool AK620 120mm Dual Fan CPU Air Cooler (R-AK620-BKNNMT-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 5300,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml240l_argb_white_edition_v2_cpu_liquid_cooler_(mlw-d24m-a18pw-rw)",
+    "name": "COOLER MASTER MASTERLIQUID ML240L ARGB WHITE EDITION V2 CPU LIQUID COOLER (MLW-D24M-A18PW-RW)",
+    "category": "cooler",
+    "brand": "COOLER",
+    "type": "Liquid",
+    "price_inr": 6449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_ultra_240_all-in-one_liquid_cooler_cl-w322-pl12gm-a",
+    "name": "Thermaltake TOUGHLIQUID Ultra 240 All-In-One Liquid Cooler CL-W322-PL12GM-A",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 14499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_ultra_360_all-in-one_liquid_cooler_cl-w323-pl12gm-a",
+    "name": "Thermaltake TOUGHLIQUID Ultra 360 All-In-One Liquid Cooler CL-W323-PL12GM-A",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 19499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_ryujin_ii_240_liquid_cpu_cooler",
+    "name": "ASUS ROG Ryujin II 240 liquid CPU cooler",
+    "category": "cooler",
+    "brand": "ASUS",
+    "type": "Liquid",
+    "price_inr": 22260,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_120_120mm_liquid_cooler_rl-kr120-b1",
+    "name": "NZXT Kraken 120 120MM Liquid Cooler RL-KR120-B1",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 7199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_e1-410_lite_cpu_air_cooler_with_120mm_pwm_fixed_rainbow_color_fan",
+    "name": "Gamdias BOREAS E1-410 LITE CPU Air Cooler with 120mm PWM Fixed Rainbow Color Fan",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 1695,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "coolermaster_masterliquid_ml240_illusion_cpu_liquid_cooler_(white)_(mlx-d24m-a18pw-r1)",
+    "name": "COOLERMASTER MASTERLIQUID ML240 ILLUSION CPU LIQUID COOLER (WHITE) (MLX-D24M-A18PW-R1)",
+    "category": "cooler",
+    "brand": "COOLERMASTER",
+    "type": "Liquid",
+    "price_inr": 7095,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "coolermaster_masterliquid_ml240_illusion_cpu_liquid_cooler_(mlx-d24m-a18p2-r1)",
+    "name": "COOLERMASTER MASTERLIQUID ML240 ILLUSION CPU LIQUID COOLER (MLX-D24M-A18P2-R1)",
+    "category": "cooler",
+    "brand": "COOLERMASTER",
+    "type": "Liquid",
+    "price_inr": 7099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml360_illusion",
+    "name": "Cooler Master MasterLiquid ML360 ILLUSION",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 11195,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_ml360l_argb_white_edition_v2",
+    "name": "Cooler Master MasterLiquid ML360L ARGB White Edition V2",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 9099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_240_white_sl_fan_argb_cpu_liquid_cooler_(g89.ga240sla.in)",
+    "name": "Lian Li Galahad 240 White SL Fan ARGB CPU Liquid Cooler (G89.GA240SLA.IN)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 9898,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_360_argb_all_in_one_360mm_cpu_liquid_cooler_with_uni_fan_sl_edition_(white)",
+    "name": "Lian Li Galahad 360 ARGB All In One 360mm CPU Liquid Cooler With Uni Fan SL Edition (White)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 13396,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_chione_m3-240w_argb_all_in_one_240mm_cpu_liquid_cooler",
+    "name": "Gamdias Chione M3-240W ARGB All In One 240mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 5195,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_chione_m3-240_lite_cpu_argb_liquid_cooler",
+    "name": "Gamdias Chione M3-240 Lite CPU ARGB Liquid Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 5195,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_symphony_360_aio_liquid_cooler",
+    "name": "ANTEC SYMPHONY 360 AIO LIQUID COOLER",
+    "category": "cooler",
+    "brand": "ANTEC",
+    "type": "Liquid",
+    "price_inr": 5699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_symphony_240_argb_all-in-one_liquid_cooler",
+    "name": "Antec SYMPHONY 240 ARGB All-in-One Liquid Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Liquid",
+    "price_inr": 4529,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cougar_aqua_360_argb_all_in_one_360mm_cpu_liquid_cooler_(black)",
+    "name": "Cougar AQUA 360 ARGB All In One 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Cougar",
+    "type": "Liquid",
+    "price_inr": 7999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h100i_elite_lcd_display_liquid_cpu_cooler",
+    "name": "Corsair iCUE H100i ELITE LCD Display Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 20449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_strix_lc_ii_360_argb_white_edition_aio_360mm_cpu_liquid_cooler",
+    "name": "Asus ROG Strix LC II 360 ARGB White Edition AIO 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Asus",
+    "type": "Liquid",
+    "price_inr": 20924,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_meg_coreliquid_s360_liquid_cooler",
+    "name": "MSI MEG CoreLiquid S360 Liquid Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 19855,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_240r_v2_white_liquid_cooler",
+    "name": "MSI MAG Coreliquid 240R V2 White Liquid Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 7780,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_a400i_neon_lighting_cpu_air_cooler",
+    "name": "Antec A400i Neon Lighting CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Air",
+    "price_inr": 1445,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_frigusair_400_argb_cpu_air_cooler",
+    "name": "Antec Frigusair 400 ARGB CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Air",
+    "price_inr": 2688,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_symphony_360_argb_white_all-in-one_liquid_cooler",
+    "name": "Antec SYMPHONY 360 ARGB White All-in-One Liquid Cooler",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Liquid",
+    "price_inr": 6299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_black_120mm_cpu_air_cooler_(r-ak400-bknnmn-g-1)",
+    "name": "Deepcool AK400 Black 120mm CPU Air Cooler (R-AK400-BKNNMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak620_high_performance_dual_tower_cpu_cooler_-_white_(r-ak620-whnnmt-g-1)",
+    "name": "Deepcool AK620 High Performance Dual Tower CPU Cooler - White (R-AK620-WHNNMT-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 5399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u12a_chromax_black_120mm_cpu_air_cooler_with_intel_lga1700_socket",
+    "name": "Noctua NH-U12A Chromax Black 120mm CPU Air Cooler with Intel LGA1700 Socket",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9753,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-d12l_cpu_cooler",
+    "name": "Noctua NH-D12L CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9055,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "alseye_m240w_argb_all_in_one_240mm_cpu_liquid_cooler_(white)",
+    "name": "Alseye M240W ARGB All In One 240mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Alseye",
+    "type": "Liquid",
+    "price_inr": 5945,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls720_premium_argb_liquid_cpu_cooler_(black)_(r-ls720-bkamnt-g-1)",
+    "name": "DEEPCOOL LS720 PREMIUM ARGB LIQUID CPU COOLER (BLACK) (R-LS720-BKAMNT-G-1)",
+    "category": "cooler",
+    "brand": "DEEPCOOL",
+    "type": "Liquid",
+    "price_inr": 8599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_wh_120mm_cpu_air_cooler_(r-ak400-whnnmn-g-1)",
+    "name": "Deepcool AK400 WH 120mm CPU Air Cooler (R-AK400-WHNNMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2481,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_le300_all-in-one_liquid_cpu_cooler_r-le300-bklnmc-g-1",
+    "name": "DeepCool LE300 All-In-One liquid CPU Cooler R-LE300-BKLNMC-G-1",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Liquid",
+    "price_inr": 4049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c200_cpu_air_cooler_with_rainbow_led_fan",
+    "name": "Ant Esports Ice-C200 Cpu Air Cooler With Rainbow Led Fan",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Air",
+    "price_inr": 850,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls720_wh_premium_liquid_cpu_cooler_-_white_(r-ls720-whamnt-g-1)",
+    "name": "DeepCool LS720 WH Premium Liquid CPU Cooler - White (R-LS720-WHAMNT-G-1)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Liquid",
+    "price_inr": 11609,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_b240_argb_all_in_one_240mm_cpu_liquid_cooler",
+    "name": "MSI MAG Coreliquid B240 ARGB All In One 240mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 6400,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mpg_coreliquid_k240_v2_aio_liquid_cpu_cooler",
+    "name": "MSI MPG CORELIQUID K240 V2 AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 12899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mpg_coreliquid_k360_v2_aio_liquid_cpu_cooler",
+    "name": "MSI MPG CORELIQUID K360 V2 AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 16899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_bk_argb_single_tower_120mm_cpu_cooler_(r-ag400-bkanmc-g-1)",
+    "name": "DeepCool AG400 BK ARGB Single Tower 120mm CPU Cooler (R-AG400-BKANMC-G-1)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 1599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag620_argb_dual-tower_120mm_cpu_cooler_(r-ag620-bkanmn-g-1)",
+    "name": "DeepCool AG620 ARGB Dual-Tower 120mm CPU Cooler (R-AG620-BKANMN-G-1)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 2899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag620_bk_argb_dual-tower_120mm_cpu_cooler_(r-ak620-bknnmt-g-1)",
+    "name": "Deepcool AG620 BK ARGB Dual-Tower 120mm CPU Cooler (R-AK620-BKNNMT-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 6535,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag300_single-tower_cpu_cooler_(r-ag300-bknnmn-g)",
+    "name": "DeepCool AG300 Single-Tower CPU Cooler (R-AG300-BKNNMN-G)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 1249,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_zero_dark_performance_cpu_cooler_-_black_(r-ak400-bknnmn-g-2)",
+    "name": "DeepCool AK400 ZERO DARK Performance CPU Cooler - Black (R-AK400-BKNNMN-G-2)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 3257,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_e1-410_wh_argb_120mm_cpu_air_cooler_(white)",
+    "name": "Gamdias Boreas E1-410 WH ARGB 120mm CPU Air Cooler (White)",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 2125,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_pl360_flux_liquid_cooler",
+    "name": "Cooler Master MasterLiquid PL360 Flux Liquid Cooler",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 14450,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_t120_rgb_cpu_air_cooler_-_black_(rc-tr120-b1)",
+    "name": "NZXT T120 RGB CPU Air Cooler - Black (RC-TR120-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Air",
+    "price_inr": 3849,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_t120_rgb_cpu_air_cooler_-_white_(rc-tr120-w1)",
+    "name": "NZXT T120 RGB CPU Air Cooler - White (RC-TR120-W1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Air",
+    "price_inr": 3363,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-l9i-17xx_95mm_sso2_cpu_cooler",
+    "name": "Noctua NH-L9I-17XX 95mm SSO2 CPU Cooler",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 4249,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_bk_argb_120mm_cpu_cooler(r-ag400-bkanmc-g-2)",
+    "name": "Deepcool AG400 BK ARGB 120mm CPU Cooler(R-AG400-BKANMC-G-2)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2100,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_wh_argb_single_tower_120mm_cpu_cooler_r-ag400-whanmc-g-2",
+    "name": "DeepCool AG400 WH ARGB Single Tower 120mm CPU Cooler R-AG400-WHANMC-G-2",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 1994,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag620_bk_argb_dual-tower_120mm_cpu_cooler_r-ag620-bkanmn-g-2",
+    "name": "Deepcool AG620 BK ARGB Dual-Tower 120mm CPU Cooler R-AG620-BKANMN-G-2",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 4349,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag620_wh_argb_dual-tower_120mm_cpu_cooler_r-ag620-whanmn-g-2",
+    "name": "Deepcool AG620 WH ARGB Dual-Tower 120mm CPU Cooler R-AG620-WHANMN-G-2",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak500_zero_dark_high_performance_single_tower_cpu_cooler_(r-ak500-bknnmt-g-1)",
+    "name": "Deepcool AK500 ZERO DARK High Performance Single Tower CPU Cooler (R-AK500-BKNNMT-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 4885,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_aura_gl240_liquid_cpu_cooler",
+    "name": "Gamdias Aura GL240 Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 4699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt720_360mm_cpu_liquid_cooler_black_(r-lt720-bkamnf-g-1)",
+    "name": "Deepcool LT720 360mm Cpu Liquid Cooler Black (R-LT720-BKAMNF-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 8294,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls520_se_240mm_cpu_liquid_cooler_black_(r-ls520-bkammm-g-1)",
+    "name": "Deepcool LS520 SE 240mm Cpu Liquid Cooler Black (R-LS520-BKAMMM-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls720_se_360mm_cpu_liquid_cooler_black_(r-ls720-bkammm-g-1)",
+    "name": "Deepcool LS720 SE 360mm Cpu Liquid Cooler Black (R-LS720-BKAMMM-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 8939,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls720_se_wh_360mm_cpu_liquid_cooler_(r-ls720-whammm-g-1)",
+    "name": "Deepcool LS720 SE WH 360mm Cpu Liquid Cooler (R-LS720-WHAMMM-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 10199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_hyper_212_halo_argb_air_cooler_(black)",
+    "name": "Cooler Master Hyper 212 Halo ARGB Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 3378,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_hyper_212_halo_argb_air_cooler_(white)",
+    "name": "Cooler Master Hyper 212 Halo ARGB Air Cooler (White)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 3394,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_hyper_212_spectrum_v3_air_cooler_(black)",
+    "name": "Cooler Master Hyper 212 Spectrum V3 Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 1948,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_pl360_flux_argb_white_edition_all_in_one_360mm_cpu_liquid_cooler_(mly-d36m-a23pz-rw)",
+    "name": "Cooler Master MasterLiquid PL360 Flux ARGB White Edition All In One 360mm CPU Liquid Cooler (MLY-D36M-A23PZ-RW)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 14299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag500_bk_argb_compact_single-tower_cpu_cooler_r-ag500-bkanmn-g-1",
+    "name": "DeepCool AG500 BK ARGB Compact Single-Tower CPU Cooler R-AG500-BKANMN-G-1",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 2649,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h150i_elite_lcd_xt_display_aio_liquid_cooler_white",
+    "name": "CORSAIR iCUE H150i ELITE LCD XT DISPLAY AIO LIQUID COOLER White",
+    "category": "cooler",
+    "brand": "CORSAIR",
+    "type": "Liquid",
+    "price_inr": 24149,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h150i_elite_lcd_xt_display_liquid_cpu_cooler_-_black",
+    "name": "Corsair iCUE H150i Elite LCD XT Display Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 23499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "alseye_halo_h120t_rgb_120mm_cpu_air_cooler_(black)",
+    "name": "Alseye Halo H120T RGB 120mm CPU Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "Alseye",
+    "type": "Air",
+    "price_inr": 2695,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt520_wh_240mm_high-performance_liquid_cpu_cooler_-_white_(r-lt520-whamnf-g-1)",
+    "name": "Deepcool LT520 WH 240mm High-Performance Liquid CPU Cooler - White (R-LT520-WHAMNF-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7552,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_rog_ryuo_iii_360_argb_aio_liquid_cooler",
+    "name": "ASUS ROG RYUO III 360 ARGB AIO LIQUID COOLER",
+    "category": "cooler",
+    "brand": "ASUS",
+    "type": "Liquid",
+    "price_inr": 24499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_240l_core_argb_liquid_cooler_(_black_)",
+    "name": "Cooler Master MasterLiquid 240L Core ARGB Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 5949,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360l_core_argb_liquid_cooler_(_black_)",
+    "name": "Cooler Master MasterLiquid 360L Core ARGB Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 7799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_p1-720_dual_chamber_air_cooler_(_black_)",
+    "name": "Gamdias Boreas P1-720 Dual Chamber Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 5945,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "galax_hydro_vortex_360r_argb_black_aio_liquid_cooler",
+    "name": "GALAX Hydro Vortex 360R ARGB Black AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "GALAX",
+    "type": "Liquid",
+    "price_inr": 5994,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "galax_hydro_vortex_240r_argb_white_aio_liquid_cooler",
+    "name": "GALAX Hydro Vortex 240R ARGB White AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "GALAX",
+    "type": "Liquid",
+    "price_inr": 6199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "galax_hydro_vortex_360r_argb_white_aio_liquid_cooler",
+    "name": "GALAX Hydro Vortex 360R ARGB White AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "GALAX",
+    "type": "Liquid",
+    "price_inr": 7449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_240l_core_argb_white_all_in_one_240mm_cpu_liquid_cooler_(mlw-d24m-a18pz-rw)",
+    "name": "Cooler Master MasterLiquid 240L Core ARGB White All In One 240mm CPU Liquid Cooler (MLW-D24M-A18PZ-RW)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 6300,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360l_core_argb_white_all_in_one_360mm_cpu_liquid_cooler_(mlw-d36m-a18pz-rw)",
+    "name": "Cooler Master MasterLiquid 360L Core ARGB White All In One 360mm CPU Liquid Cooler (MLW-D36M-A18PZ-RW)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 7984,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_plus_120mm_cpu_cooler_(r-ag400-bknnmd-g)",
+    "name": "Deepcool AG400 PLUS 120mm CPU Cooler (R-AG400-BKNNMD-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak500_wh_high_performance_cpu_cooler_(r-ak500-whnnmt-g)",
+    "name": "Deepcool AK500 WH High Performance CPU Cooler (R-AK500-WHNNMT-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 4455,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_hyper_620s_argb_120mm_dual_tower_cpu_air_cooler_(rr-d6na-17pa-r1)",
+    "name": "Cooler Master Hyper 620S ARGB 120mm Dual Tower CPU Air Cooler (RR-D6NA-17PA-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 3049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_m240_aio_liquid_cpu_cooler",
+    "name": "MSI MAG Coreliquid M240 AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 5995,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_chione_p3-360u_lcd_360mm_cpu_liquid_cooler",
+    "name": "Gamdias CHIONE P3-360U LCD 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 12095,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_chione_p3-240u_lcd_240mm_cpu_liquid_cooler",
+    "name": "Gamdias CHIONE P3-240U LCD 240mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 10485,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_aeolus_m2-1204r_white_4_fan_kit",
+    "name": "Gamdias AEOLUS M2-1204R White 4 Fan Kit",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 3025,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_240_rgb_240mm_lcd_aio_liquid_cooler_black_(rl-kr240-b1)",
+    "name": "NZXT Kraken 240 RGB 240mm LCD AIO Liquid Cooler Black (RL-KR240-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 13769,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_280_rgb_280mm_lcd_aio_liquid_cooler_black_(rl-kr280-b1)",
+    "name": "NZXT Kraken 280 RGB 280mm LCD AIO Liquid Cooler Black (RL-KR280-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 16499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_360_360mm_lcd_aio_liquid_cooler_black_(rl-kn360-b1)",
+    "name": "NZXT Kraken 360 360mm LCD AIO Liquid Cooler Black (RL-KN360-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 13545,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_280_rgb_280mm_lcd_aio_liquid_cooler_white_(rl-kr280-w1)",
+    "name": "NZXT Kraken 280 RGB 280mm LCD AIO Liquid Cooler White (RL-KR280-W1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 16499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_360_rgb_360mm_lcd_aio_liquid_cooler_black_(rl-kr360-b1)",
+    "name": "NZXT Kraken 360 RGB 360mm LCD AIO Liquid Cooler Black (RL-KR360-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 18199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_elite_360_rgb_360mm_lcd_aio_liquid_cooler_black_(rl-kr36e-b1)",
+    "name": "NZXT Kraken Elite 360 RGB 360mm LCD AIO Liquid Cooler Black (RL-KR36E-B1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 26800,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_elite_360_rgb_360mm_lcd_aio_liquid_cooler_white_(rl-kr36e-w1)",
+    "name": "NZXT Kraken Elite 360 RGB 360mm LCD AIO Liquid Cooler White (RL-KR36E-W1)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 26745,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_360_rgb_360mm_aio_liquid_cooler_(matte_white)_(rl-kr360-w1)",
+    "name": "Nzxt Kraken 360 Rgb 360mm Aio Liquid Cooler (Matte White) (RL-KR360-W1)",
+    "category": "cooler",
+    "brand": "Nzxt",
+    "type": "Liquid",
+    "price_inr": 18199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_240_rgb_240mm_aio_liquid_cooler_with_lcd_display_rl-kr240-w1",
+    "name": "NZXT Kraken 240 RGB 240mm AIO Liquid Cooler with LCD Display RL-KR240-W1",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 14900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak620_digital_120mm_dual_tower_cpu_air_cooler_with_argb_led_strips_(r-ak620-bkadmn-g)",
+    "name": "Deepcool AK620 Digital 120mm Dual Tower CPU Air Cooler with ARGB LED Strips (R-AK620-BKADMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 6895,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_240l_core_cpu_cooler_mlw-d24m-a17pk-r1",
+    "name": "Cooler Master MASTERLIQUID 240L Core CPU Cooler MLW-D24M-A17PK-R1",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 4799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_an600_120mm_cpu_air_cooler_(r-an600-bknnmn-g)",
+    "name": "Deepcool AN600 120mm CPU Air Cooler (R-AN600-BKNNMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 4299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_assassin_iv_120mm_and_140mm_dual_tower_cpu_air_cooler_(r-asn4-bknnmt-g)",
+    "name": "Deepcool Assassin IV 120mm and 140mm Dual Tower CPU Air Cooler (R-ASN4-BKNNMT-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 7924,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h170i_elite_lcd_xt_display_rgb_black_all_in_one_420mm_cpu_liquid_cooler_(cw-9060076-ww)",
+    "name": "Corsair iCUE H170i Elite LCD XT Display RGB Black All in One 420mm CPU Liquid Cooler (CW-9060076-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 25499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u12s_tr4-sp3_120mm_cpu_air_cooler_for_amd_strx4,_swrx8,_tr4,_sp3",
+    "name": "Noctua NH-U12S TR4-SP3 120mm CPU Air Cooler for AMD sTRX4, sWRX8, TR4, SP3",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 8500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughair_trx40_cpu_cooler_(cl-p095-pl14bl-a)",
+    "name": "Thermaltake TOUGHAIR TRX40 CPU Cooler (CL-P095-PL14BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 5645,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-360_argb",
+    "name": "ANT ESPORTS ICE-360 ARGB",
+    "category": "cooler",
+    "brand": "ANT",
+    "type": "Air",
+    "price_inr": 4980,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-240_argb",
+    "name": "ANT ESPORTS ICE-240 ARGB",
+    "category": "cooler",
+    "brand": "ANT",
+    "type": "Air",
+    "price_inr": 3799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_trinity_360mm_argb_liquid_cpu_cooler_-_white",
+    "name": "Lian Li Galahad II Trinity 360mm ARGB Liquid CPU Cooler - White",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 14799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_trinity_performance_360mm_argb_liquid_cpu_cooler_-_black",
+    "name": "Lian Li Galahad II Trinity Performance 360mm ARGB Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 14799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_trinity_performance_360mm_argb_liquid_cpu_cooler_-_white",
+    "name": "Lian Li Galahad II Trinity Performance 360mm ARGB Liquid CPU Cooler - White",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 14799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_trinity_sl-inf_360mm_argb_liquid_cpu_cooler_-_black",
+    "name": "Lian Li Galahad II Trinity SL-INF 360mm ARGB Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 17900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_zero_dark_plus_120mm_cpu_air_cooler_(r-ak400-bknnmd-g-1)",
+    "name": "Deepcool AK400 Zero Dark Plus 120mm CPU Air Cooler (R-AK400-BKNNMD-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3564,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_360_argb_trx40_all_in_one_360mm_cpu_liquid_cooler_with_rotational_lcd_display_(cl-w336-pl12gm-a)",
+    "name": "Thermaltake TOUGHLIQUID 360 ARGB TRX40 All In One 360mm CPU Liquid Cooler with Rotational LCD Display (CL-W336-PL12GM-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 13700,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c612_argb_v2",
+    "name": "ANT ESPORTS ICE-C612 ARGB V2",
+    "category": "cooler",
+    "brand": "ANT",
+    "type": "Air",
+    "price_inr": 1410,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c200_v2",
+    "name": "ANT ESPORTS ICE-C200 V2",
+    "category": "cooler",
+    "brand": "ANT",
+    "type": "Air",
+    "price_inr": 669,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u14s_dx-4677,_premium_cpu_cooler_for_intel_xeon_lga4677",
+    "name": "Noctua NH-U14S DX-4677, Premium CPU Cooler for Intel Xeon LGA4677",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 11399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_ultra_280_rgb_all_in_one_280mm_cpu_liquid_cooler_with_rotational_lcd_display_(cl-w371-pl14sw-a)",
+    "name": "Thermaltake Toughliquid Ultra 280 RGB All In One 280mm CPU Liquid Cooler with Rotational LCD Display (CL-W371-PL14SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 19625,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_lumen_s36_rgb_v2_(fd-w-l1-s3612)",
+    "name": "Fractal Design Lumen S36 RGB V2 (FD-W-L1-S3612)",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Air",
+    "price_inr": 15599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_lumen_s24_v2_(fd-w-l1-s2411)",
+    "name": "Fractal Design Lumen S24 V2 (FD-W-L1-S2411)",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Air",
+    "price_inr": 12099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_lumen_s24_rgb_v2_(fd-w-l1-s2412)",
+    "name": "Fractal Design Lumen S24 RGB V2 (FD-W-L1-S2412)",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Air",
+    "price_inr": 13399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "fractal_design_lumen_s36_v2_(fd-w-l1-s3611)",
+    "name": "Fractal Design Lumen S36 V2 (FD-W-L1-S3611)",
+    "category": "cooler",
+    "brand": "Fractal",
+    "type": "Air",
+    "price_inr": 14499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gammaxx_le520_white_argb_all_in_one_240mm_cpu_liquid_cooler_(r-le520-whammn-g-1)",
+    "name": "DeepCool Gammaxx LE520 White ARGB All In One 240mm CPU Liquid Cooler (R-LE520-WHAMMN-G-1)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Liquid",
+    "price_inr": 5129,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_gammaxx_le720_white_argb_all_in_one_360mm_cpu_liquid_cooler_(r-le720-whammn-g-1)",
+    "name": "Deepcool Gammaxx LE720 White ARGB All In One 360mm CPU Liquid Cooler (R-LE720-WHAMMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 6650,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_h150i_rgb_aio_liquid_cpu_cooler_(cw-9061003-ww)",
+    "name": "Corsair iCUE LINK H150i RGB AIO Liquid CPU Cooler (CW-9061003-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 19400,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_h150i_rgb_white_all_in_one_360mm_cpu_liquid_cooler_(cw-9061006-ww)",
+    "name": "Corsair iCUE LINK H150i RGB White All In One 360mm CPU Liquid Cooler (CW-9061006-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 20655,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_e240_aio_240mm_liquid_cooler",
+    "name": "MSI MAG CoreLiquid E240 AIO 240mm Liquid Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 7995,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_e240_aio_240mm_liquid_cooler_white",
+    "name": "MSI MAG CoreLiquid E240 AIO 240mm Liquid Cooler White",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 8409,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_e360_360mm_aio_liquid_cooler",
+    "name": "MSI MAG Coreliquid E360 360mm AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 10855,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_e360_360mm_aio_liquid_cooler_white",
+    "name": "MSI MAG Coreliquid E360 360mm AIO Liquid Cooler White",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 10455,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_120l_core_all_in_one_120mm_cpu_liquid_cooler_(mlw-d12m-a17pk-r1)",
+    "name": "Cooler Master MasterLiquid 120L Core All In One 120mm CPU Liquid Cooler (MLW-D12M-A17PK-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 4299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360_atmos_cpu_cooler_-_black",
+    "name": "Cooler Master MasterLiquid 360 Atmos CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 13695,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_lcd_argb_all_in_one_280mm_cpu_liquid_cooler_(black)",
+    "name": "Lian Li Galahad II LCD ARGB All In One 280mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 19850,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_lcd_argb_all_in_one_360mm_cpu_liquid_cooler_(black)",
+    "name": "Lian Li Galahad II LCD ARGB All In One 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 20950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_lcd_sl-inf_argb_all_in_one_360mm_cpu_liquid_cooler_with_controller_(black)",
+    "name": "Lian Li Galahad II LCD SL-INF ARGB All In One 360mm CPU Liquid Cooler with Controller (Black)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 22799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_galahad_ii_lcd_sl-inf_argb_all_in_one_360mm_cpu_liquid_cooler_with_controller_(white)",
+    "name": "Lian Li Galahad II LCD SL-INF ARGB All In One 360mm CPU Liquid Cooler with Controller (White)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 22499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_digital_cpu_cooler_white_(r-ak400-whadmn-g)",
+    "name": "DeepCool AK400 Digital CPU Cooler White (R-AK400-WHADMN-G)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Air",
+    "price_inr": 3855,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak620_digital_air_cooler_white_(r-ak620-whadmn-g)",
+    "name": "Deepcool AK620 Digital Air Cooler White (R-AK620-WHADMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 7115,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th240_v2_argb_sync_black_all_in_one_240mm_cpu_liquid_cooler_(cl-w361-pl12sw-a)",
+    "name": "Thermaltake TH240 V2 ARGB Sync Black All In One 240mm CPU Liquid Cooler (CL-W361-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 5795,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th240_v2_argb_sync_snow_edition_all_in_one_240mm_cpu_liquid_cooler_(cl-w364-pl12sw-a)",
+    "name": "Thermaltake TH240 V2 ARGB Sync Snow Edition All In One 240mm CPU Liquid Cooler (CL-W364-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 5799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_argb_sync_black_all_in_one_360mm_cpu_liquid_cooler_(cl-w362-pl12sw-a)",
+    "name": "Thermaltake TH360 V2 ARGB Sync Black All In One 360mm CPU Liquid Cooler (CL-W362-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 7350,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_argb_sync_snow_edition_all_in_one_360mm_cpu_liquid_cooler_(cl-w365-pl12sw-a)",
+    "name": "Thermaltake TH360 V2 ARGB Sync Snow Edition All In One 360mm CPU Liquid Cooler (CL-W365-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 7349,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_ux200_se_argb_lighting_120mm_cpu_air_cooler_(cl-p105-al12sw-a)",
+    "name": "Thermaltake UX200 SE ARGB Lighting 120mm CPU Air Cooler (CL-P105-AL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 2295,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterair_ma824_stealth_120mm_dual_tower_cpu_air_cooler_(mam-d8pn-318pk-r1)",
+    "name": "Cooler Master MasterAir MA824 Stealth 120mm Dual Tower CPU Air Cooler (MAM-D8PN-318PK-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Air",
+    "price_inr": 10050,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_frozr-o_ii_360_arctic_argb_all_in_one_360mm_cpu_liquid_cooler_with_lcd_display,_galaxy_ii_fan_controler_and_remote_\u00e2\u20ac\u201c_white_(en40450)",
+    "name": "Xigmatek Frozr-O II 360 Arctic ARGB All In One 360mm CPU Liquid Cooler with LCD Display, Galaxy II Fan Controler and Remote \u00e2\u20ac\u201c White (EN40450)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 18905,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_liquid_killer_x_240_arctic_argb_all_in_one_240mm_cpu_liquid_cooler_with_galaxy_ii_argb_fan_controler_and_remote_\u00e2\u20ac\u201c_white_(en47963)",
+    "name": "Xigmatek Liquid Killer X 240 Arctic ARGB All In One 240mm CPU Liquid Cooler with Galaxy II ARGB Fan Controler and Remote \u00e2\u20ac\u201c White (EN47963)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 6665,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_liquid_killer_x_240_argb_all_in_one_240mm_cpu_liquid_cooler_with_galaxy_ii_argb_fan_controler_and_remote_\u00e2\u20ac\u201c_black_(en47697)",
+    "name": "Xigmatek Liquid Killer X 240 ARGB All In One 240mm CPU Liquid Cooler with Galaxy II ARGB Fan Controler and Remote \u00e2\u20ac\u201c Black (EN47697)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 6305,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_liquid_killer_x_360_arctic_argb_all_in_one_360mm_cpu_liquid_cooler_with_galaxy_ii_argb_fan_controler_and_remote_\u00e2\u20ac\u201c_white_(en40214)",
+    "name": "Xigmatek Liquid Killer X 360 Arctic ARGB All In One 360mm CPU Liquid Cooler with Galaxy II ARGB Fan Controler and Remote \u00e2\u20ac\u201c White (EN40214)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 7925,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_liquid_killer_x_360_argb_all_in_one_360mm_cpu_liquid_cooler_with_galaxy_ii_argb_fan_controler_and_remote_\u00e2\u20ac\u201c_black_(en47703)",
+    "name": "Xigmatek Liquid Killer X 360 ARGB All In One 360mm CPU Liquid Cooler with Galaxy II ARGB Fan Controler and Remote \u00e2\u20ac\u201c Black (EN47703)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 7565,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_neon_aqua_240_argb_all_in_one_240mm_cpu_liquid_cooler_with_argb_tube_and_galaxy_ii_fan_control_kit_\u00e2\u20ac\u201c_black_(en49578)",
+    "name": "Xigmatek Neon Aqua 240 ARGB All In One 240mm CPU Liquid Cooler with ARGB Tube and Galaxy II Fan Control Kit \u00e2\u20ac\u201c Black (EN49578)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 9725,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "xigmatek_neon_aqua_360_argb_all_in_one_360mm_cpu_liquid_cooler_with_argb_tube_and_galaxy_ii_fan_control_kit_\u00e2\u20ac\u201c_black_(en49912)",
+    "name": "Xigmatek Neon Aqua 360 ARGB All In One 360mm CPU Liquid Cooler with ARGB Tube and Galaxy II Fan Control Kit \u00e2\u20ac\u201c Black (EN49912)",
+    "category": "cooler",
+    "brand": "Xigmatek",
+    "type": "Liquid",
+    "price_inr": 11405,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_nh-u14s_dx-4189_140mm_cpu_air_cooler_for_intel_xeon_lga4189_(brown)",
+    "name": "Noctua NH-U14S DX-4189 140mm CPU Air Cooler for Intel Xeon LGA4189 (Brown)",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 9799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "aerocool_cylon_4f_argb_cpu_air_cooler",
+    "name": "Aerocool Cylon 4F ARGB CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Aerocool",
+    "type": "Air",
+    "price_inr": 2190,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_ultra_argb_sync_all-in-one_liquid_cooler_(cl-w384-pl12sw-a)",
+    "name": "Thermaltake TH360 V2 Ultra ARGB Sync All-In-One Liquid Cooler (CL-W384-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 13600,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "asus_proart_lc_420_140mm_all_in_one_cpu_liquid_cooler_(proart-lc-420)",
+    "name": "Asus ProArt LC 420 140mm All in One Cpu Liquid Cooler (ProArt-LC-420)",
+    "category": "cooler",
+    "brand": "Asus",
+    "type": "Liquid",
+    "price_inr": 24049,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "themaltake_toughair_710_black_cpu_cooler_(cl-p117-ca14bl-a)",
+    "name": "Themaltake TOUGHAIR 710 Black CPU Cooler (CL-P117-CA14BL-A)",
+    "category": "cooler",
+    "brand": "Themaltake",
+    "type": "Air",
+    "price_inr": 6980,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_assassin_iv_wh_140mm_cpu_air_cooler_(r-asn4-whnnmt-g)",
+    "name": "Deepcool Assassin IV Wh 140mm Cpu Air Cooler (R-ASN4-WHNNMT-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 8729,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "noctua_140mm_cpu_cooler_(nh-u14s_tr5-sp6)",
+    "name": "Noctua 140mm CPU Cooler (NH-U14S TR5-SP6)",
+    "category": "cooler",
+    "brand": "Noctua",
+    "type": "Air",
+    "price_inr": 14500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-flow_240_argb_cpu_liquid_cooler_-_black",
+    "name": "Ant Esports ICE-Flow 240 ARGB CPU Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 4940,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-flow_360_argb_cpu_liquid_cooler_-_black",
+    "name": "Ant Esports ICE-Flow 360 ARGB CPU Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 6130,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-glow_240_argb_cpu_liquid_cooler_-_white",
+    "name": "Ant Esports ICE-Glow 240 ARGB CPU Liquid Cooler - White",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-glow_360_argb_cpu_liquid_cooler_-_white",
+    "name": "Ant Esports ICE-Glow 360 ARGB CPU Liquid Cooler - White",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 7200,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ls520s_zero_dark_240mm_aio_liquid_cpu_cooler_black_(r-ls520-bknnmm-g-1)",
+    "name": "Deepcool LS520S Zero Dark 240mm AIO Liquid CPU Cooler Black (R-LS520-BKNNMM-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7053,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_digital_120mm_cpu_cooler_(r-ag400-bkadmn-g-1)",
+    "name": "Deepcool AG400 Digital 120mm CPU Cooler (R-AG400-BKADMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 2985,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_digital_bk_argb_120mm_air_cooler_(r-ag400-bkadmn-g-1)",
+    "name": "Deepcool AG400 Digital BK ARGB 120mm Air Cooler (R-AG400-BKADMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3256,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_digital_plus_120mm_cpu_cooler_(r-ag400-bkadmp-g-1)",
+    "name": "Deepcool AG400 Digital Plus 120mm CPU Cooler (R-AG400-BKADMP-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak620_zero_dark_zoria_120mm_air_cooler_black_(r-ak620-bknpmn-e)",
+    "name": "Deepcool AK620 Zero Dark Zoria 120mm Air Cooler Black (R-AK620-BKNPMN-E)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 6795,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360_atmos_360mm_cpu_liquid_cooler_white_(mlx-d36m-a25pz-rw)",
+    "name": "Cooler Master MasterLiquid 360 Atmos 360mm Cpu Liquid Cooler White (MLX-D36M-A25PZ-RW)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 13699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_a115_twin_tower_air_cpu_cooler",
+    "name": "Corsair A115 Twin Tower Air CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Air",
+    "price_inr": 7085,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ag400_digital_cpu_cooler",
+    "name": "Deepcool AG400 Digital CPU Cooler",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c120_low_profile_air_cpu_cooler",
+    "name": "Ant Esports ICE-C120 Low Profile Air CPU Cooler",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Air",
+    "price_inr": 385,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c400_rainbow_led_air_cpu_cooler",
+    "name": "Ant Esports ICE-C400 Rainbow LED Air CPU Cooler",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Air",
+    "price_inr": 929,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c621_dual_tower_argb_air_cpu_cooler",
+    "name": "Ant Esports ICE-C621 Dual Tower ARGB Air CPU Cooler",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Air",
+    "price_inr": 2560,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-infinite_240_argb_cpu_liquid_cooler_-_black",
+    "name": "Ant Esports ICE-Infinite 240 ARGB CPU Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 4325,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-infinite_360_argb_cpu_liquid_cooler_-_black",
+    "name": "Ant Esports ICE-Infinite 360 ARGB CPU Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-infinite_360_argb_cpu_liquid_cooler_-_white",
+    "name": "Ant Esports ICE-Infinite 360 ARGB CPU Liquid Cooler - White",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5525,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_aura_gl240_v2_white_agrb_liquid_cooler",
+    "name": "Gamdias AURA GL240 V2 White AGRB Liquid Cooler",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Liquid",
+    "price_inr": 4799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_e2-410_wh_120mm_cpu_air_cooler_(white)",
+    "name": "Gamdias Boreas E2-410 WH 120mm CPU Air Cooler (White)",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 2425,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_ultra_argb_sync_snow_edition_all_in_one_360mm_cpu_liquid_cooler_with_lcd_display_(cl-w405-pl12sw-a)",
+    "name": "Thermaltake TH360 V2 Ultra ARGB Sync Snow Edition All In One 360mm CPU Liquid Cooler with LCD Display (CL-W405-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 13650,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_ux200_se_argb_lighting_cpu_cooler_white_(cl-p116-al12sw-a)",
+    "name": "Thermaltake UX200 SE ARGB Lighting CPU Cooler White (CL-P116-AL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 2145,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ld360_aio_liquid_cooler_black_(r-ld360-bkdmmn-g-1)",
+    "name": "Deepcool LD360 AIO Liquid Cooler Black (R-LD360-BKDMMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ld360_360mm_argb_liquid_cpu_cooler",
+    "name": "Deepcool LD360 360mm ARGB Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_mystique_360_360mm_liquid_cpu_cooler",
+    "name": "Deepcool Mystique 360 360mm Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 15170,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-infinite_240_argb_all_in_one_240mm_cpu_liquid_cooler_(white)",
+    "name": "Ant Esports ICE-Infinite 240 ARGB All In One 240mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 4625,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ld240_optimized_240mm_cpu_liquid_cooler_(r-ld240-bkmsn-g-1)",
+    "name": "DeepCool LD240 Optimized 240mm CPU Liquid Cooler (R-LD240-BKMSN-G-1)",
+    "category": "cooler",
+    "brand": "DeepCool",
+    "type": "Liquid",
+    "price_inr": 4500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_mystique_240_lcd_240mm_aio_liquid_cooler_black_(r-lx550-bkdsnc-g-1)",
+    "name": "Deepcool MYSTIQUE 240 LCD 240mm AIO Liquid Cooler Black (R-LX550-BKDSNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 11394,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_assassin_4s_120mm_minimalistic_premium_cpu_air_cooler_(r-asn4s-bkgpmn-g)",
+    "name": "Deepcool Assassin 4S 120mm Minimalistic Premium Cpu Air Cooler (R-ASN4S-BKGPMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 7294,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_assassin_4s_wh_120mm_minimalistic_premium_cpu_air_cooler_white_(r-asn4s-whgpmn-g)",
+    "name": "Deepcool Assassin 4S Wh 120mm Minimalistic Premium Cpu Air Cooler White (R-ASN4S-WHGPMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 7499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_h100i_elite_lcd_xt_display_liquid_cpu_cooler",
+    "name": "Corsair iCUE H100i Elite LCD XT Display Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 19499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_ii_360_ice_argb_all_in_one_360mm_cpu_liquid_cooler_(white)",
+    "name": "Gigabyte Aorus Waterforce II 360 ICE ARGB All In One 360mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 11499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_x_ii_360_ice_argb_all_in_one_360mm_cpu_liquid_cooler_with_lcd_display_(white)",
+    "name": "Gigabyte Aorus Waterforce X II 360 ICE ARGB All In One 360mm CPU Liquid Cooler with LCD Display (White)",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 20499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_x_ii_360_argb_all_in_one_360mm_cpu_liquid_cooler_(black)",
+    "name": "Gigabyte Aorus Waterforce X II 360 ARGB All In One 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 18849,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_420_argb_cpu_liquid_cooler_white_(acfre00153a)",
+    "name": "Arctic Liquid Freezer III 420 Argb Cpu Liquid Cooler White (ACFRE00153A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 16499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_240_argb_cpu_liquid_cooler_white_(acfre00150a)",
+    "name": "Arctic Liquid Freezer III 240 Argb Cpu Liquid Cooler White (ACFRE00150A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 7975,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_360_argb_cpu_liquid_cooler_white_(acfre00152a)",
+    "name": "Arctic Liquid Freezer III 360 Argb Cpu Liquid Cooler White (ACFRE00152A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 11999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_420_argb_cpu_liquid_cooler_black_(acfre00145a)",
+    "name": "Arctic Liquid Freezer III 420 Argb Cpu Liquid Cooler Black (ACFRE00145A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 18900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_360_argb_cpu_liquid_cooler_black_(acfre00144a)",
+    "name": "Arctic Liquid Freezer III 360 Argb Cpu Liquid Cooler Black (ACFRE00144A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 11099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_240_argb_cpu_liquid_cooler_black_(acfre00142a)",
+    "name": "Arctic Liquid Freezer III 240 Argb Cpu Liquid Cooler Black (ACFRE00142A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 8739,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_420_cpu_liquid_cooler_(acfre00137a)",
+    "name": "Arctic Liquid Freezer III 420 Cpu Liquid Cooler (ACFRE00137A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 13894,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_360_cpu_liquid_cooler_(acfre00136a)",
+    "name": "Arctic Liquid Freezer III 360 Cpu Liquid Cooler (ACFRE00136A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 9699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_280_cpu_liquid_cooler_(acfre00135a)",
+    "name": "Arctic Liquid Freezer III 280 Cpu Liquid Cooler (ACFRE00135A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 8449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_240_cpu_liquid_cooler_(acfre00134a)",
+    "name": "Arctic Liquid Freezer III 240 Cpu Liquid Cooler (ACFRE00134A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 7649,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_34_esports_duo_120mm_cpu_air_cooler_grey_(acfre00075a)",
+    "name": "Arctic Freezer 34 eSports Duo 120mm Cpu Air Cooler Grey (ACFRE00075A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 3799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_4u-m_single_tower_cpu_air_cooler_(acfre00133a)",
+    "name": "Arctic Freezer 4U-M Single Tower Cpu Air Cooler (ACFRE00133A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 9095,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_36_argb_cpu_air_cooler_(black)_(acfre00124a)",
+    "name": "Arctic Freezer 36 Argb Cpu Air Cooler (Black) (ACFRE00124A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 4450,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_36_argb_cpu_air_cooler_(white)_(acfre00125a)",
+    "name": "Arctic Freezer 36 Argb Cpu Air Cooler (White) (ACFRE00125A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 3945,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "hyte_thicc_q60_240mm_aio_liquid_cooler_(fan-hyte-q60-bw)",
+    "name": "HYTE THICC Q60 240mm AIO Liquid Cooler (FAN-HYTE-Q60-BW)",
+    "category": "cooler",
+    "brand": "HYTE",
+    "type": "Liquid",
+    "price_inr": 25061,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_ii_240_240mm_aio_cpu_liquid_cooler_black",
+    "name": "Gigabyte AORUS WATERFORCE II 240 240mm AIO CPU Liquid Cooler Black",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 6299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_aorus_waterforce_ii_360_360mm_aio_cpu_liquid_cooler_black",
+    "name": "Gigabyte AORUS WATERFORCE II 360 360mm AIO CPU Liquid Cooler Black",
+    "category": "cooler",
+    "brand": "Gigabyte",
+    "type": "Liquid",
+    "price_inr": 8499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice_chroma_240_argb_liquid_cooler_-_black",
+    "name": "Ant Esports ICE Chroma 240 ARGB Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5015,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice_chroma_240_argb_liquid_cooler_-_white",
+    "name": "Ant Esports ICE Chroma 240 ARGB Liquid Cooler - White",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice_chroma_360_argb_liquid_cooler_-_black",
+    "name": "Ant Esports ICE Chroma 360 ARGB Liquid Cooler - Black",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 5939,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice_chroma_360_argb_liquid_cooler_-_white",
+    "name": "Ant Esports ICE Chroma 360 ARGB Liquid Cooler - White",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Liquid",
+    "price_inr": 6549,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ld360_wh_all_in_one_360mm_cpu_liquid_cooler_with_led_digital_display_(r-ld360-whdmmn-g-1)",
+    "name": "Deepcool LD360 WH All In One 360mm CPU Liquid Cooler with LED Digital Display (R-LD360-WHDMMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt240_argb_all_in_one_240mm_cpu_liquid_cooler_(r-lt240-bkamnc-g-1)",
+    "name": "Deepcool LT240 ARGB All In One 240mm CPU Liquid Cooler (R-LT240-BKAMNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7500,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt360_argb_all_in_one_360mm_cpu_liquid_cooler_(r-lt360-bkamnc-g-1)",
+    "name": "Deepcool LT360 ARGB All In One 360mm CPU Liquid Cooler (R-LT360-BKAMNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 9999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt360_wh_argb_cpu_liquid_cooler_(white)_(r-lt360-whamnc-g-1)",
+    "name": "Deepcool LT360 Wh Argb Cpu Liquid Cooler (White) (R-LT360-WHAMNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 10749,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ld240_wh_rgb_all_in_one_240mm_cpu_liquid_cooler_with_led_digital_display_(r-ld240-whdmmn-g-1)",
+    "name": "Deepcool LD240 WH RGB All In One 240mm CPU Liquid Cooler with LED Digital Display (R-LD240-WHDMMN-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 5889,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_astria_200_argb_lighting_120mm_cpu_air_cooler_-black_(cl-p119-al12sw-a)",
+    "name": "Thermaltake Astria 200 ARGB Lighting 120mm CPU Air Cooler -Black (CL-P119-AL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 2795,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_astria_600_argb_lighting_dual_tower_120mm_cpu_air_cooler_-black_(cl-p121-ca12sw-a)",
+    "name": "Thermaltake Astria 600 ARGB Lighting Dual Tower 120mm CPU Air Cooler -Black (CL-P121-CA12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 4950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_toughliquid_360_ex_pro_argb_sync_black_all_in_one_360mm_cpu_liquid_cooler_(cl-w400-pl12bl-a)",
+    "name": "Thermaltake Toughliquid 360 EX Pro ARGB Sync Black All In One 360mm CPU Liquid Cooler (CL-W400-PL12BL-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 10899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_ultra_ex_argb_sync_black_all_in_one_360mm_cpu_liquid_cooler_with_lcd_display_(cl-w415-pl12sw-a)",
+    "name": "Thermaltake TH360 V2 Ultra EX ARGB Sync Black All In One 360mm CPU Liquid Cooler with LCD Display (CL-W415-PL12SW-A)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 14099,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lt240_wh_argb_all_in_one_240mm_cpu_liquid_cooler_(r-lt240-whamnc-g-1)",
+    "name": "Deepcool LT240 WH ARGB All In One 240mm CPU Liquid Cooler (R-LT240-WHAMNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 7750,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "montech_hyperflow_argb_240_all_in_one_240mm_cpu_liquid_cooler_(black)",
+    "name": "Montech HyperFlow ARGB 240 All In One 240mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Montech",
+    "type": "Liquid",
+    "price_inr": 6839,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "montech_hyperflow_argb_240_all_in_one_240mm_cpu_liquid_cooler_(white)",
+    "name": "Montech HyperFlow ARGB 240 All In One 240mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Montech",
+    "type": "Liquid",
+    "price_inr": 6479,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "montech_hyperflow_argb_360_all_in_one_360mm_cpu_liquid_cooler_(black)",
+    "name": "Montech HyperFlow ARGB 360 All In One 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Montech",
+    "type": "Liquid",
+    "price_inr": 9545,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "montech_hyperflow_argb_360_all_in_one_360mm_cpu_liquid_cooler_(white)",
+    "name": "Montech HyperFlow ARGB 360 All In One 360mm CPU Liquid Cooler (White)",
+    "category": "cooler",
+    "brand": "Montech",
+    "type": "Liquid",
+    "price_inr": 8520,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360_ion_cpu_cooler",
+    "name": "Cooler Master MasterLiquid 360 ION CPU Cooler",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 22299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_hydroshift_lcd_360r_aio_cpu_liquid_cooler_white_(hslcd36rw_white)",
+    "name": "Lian Li Hydroshift LCD 360R AIO CPU Liquid Cooler White (HSLCD36RW WHITE)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 20900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_36_120mm_multi_compatible_tower_cpu_air_cooler_black_(acfre00123a)",
+    "name": "Arctic Freezer 36 120mm Multi Compatible Tower CPU Air Cooler Black (ACFRE00123A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 3594,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_36_co_120_mm_cpu_air_cooler_for_continuous_operation_black_(acfre00122a)",
+    "name": "Arctic Freezer 36 CO 120 mm CPU Air Cooler for Continuous Operation Black (ACFRE00122A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 2915,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_freezer_36_120_mm_cpu_air_cooler_black_(acfre00121a)",
+    "name": "Arctic Freezer 36 120 mm CPU Air Cooler Black (ACFRE00121A)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Air",
+    "price_inr": 3345,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_mystique_360_argb_360mm_liquid_cpu_cooler_(r-lx750-bkadsnc-g-1)",
+    "name": "Deepcool Mystique 360 ARGB 360mm Liquid CPU Cooler (R-LX750-BKADSNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 15894,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_mystique_240_argb_240mm_liquid_cpu_cooler_(r-lx550-bkadsnc-g-1)",
+    "name": "Deepcool Mystique 240 ARGB 240mm Liquid CPU Cooler (R-LX550-BKADSNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 10999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "ant_esports_ice-c612_digital_air_cpu_cooler",
+    "name": "Ant Esports ICE-C612 Digital Air CPU Cooler",
+    "category": "cooler",
+    "brand": "Ant",
+    "type": "Air",
+    "price_inr": 2035,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_titan_360_rx_rgb_aio_liquid_cpu_cooler_black_(cw-9061018-ww)",
+    "name": "Corsair iCUE Link Titan 360 RX RGB AIO Liquid CPU Cooler Black (CW-9061018-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 16199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_titan_360_rx_rgb_aio_liquid_cpu_cooler_white_(cw-9061021-ww)",
+    "name": "Corsair iCUE Link Titan 360 RX RGB AIO Liquid CPU Cooler White (CW-9061021-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 16499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_assassin_iv_vc_vision_digital_air_cooler_(r-asn4-bknvmd-g)",
+    "name": "Deepcool Assassin IV VC Vision Digital Air Cooler (R-ASN4-BKNVMD-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 10424,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_e2-41d_120mm_cpu_air_cooler_(black)",
+    "name": "Gamdias Boreas E2-41D 120mm CPU Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 3045,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gamdias_boreas_m2-51d_wh_120mm_cpu_air_cooler_(snow_white)",
+    "name": "Gamdias Boreas M2-51D WH 120mm CPU Air Cooler (Snow White)",
+    "category": "cooler",
+    "brand": "Gamdias",
+    "type": "Air",
+    "price_inr": 3725,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_h150i_lcd_360mm_cpu_liquid_cooler_black_(cw-9061008-ww)",
+    "name": "Corsair iCUE LINK H150i LCD 360mm CPU Liquid Cooler Black (CW-9061008-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 16385,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_titan_360_rx_rgb_lcd_black_all_in_one_360mm_cpu_liquid_cooler,_(cw-9061023-ww)",
+    "name": "Corsair iCUE Link Titan 360 RX RGB LCD Black All In One 360mm CPU Liquid Cooler, (CW-9061023-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 18320,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_icue_link_titan_360_rx_rgb_lcd_white_all_in_one_360mm_cpu_liquid_cooler,_(cw-9061026-ww)",
+    "name": "Corsair iCUE Link Titan 360 RX RGB LCD White All In One 360mm CPU Liquid Cooler, (CW-9061026-WW)",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 19700,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_nautilus_240_rs_argb_liquid_cpu_cooler_-_white",
+    "name": "Corsair Nautilus 240 RS ARGB Liquid CPU Cooler - White",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 6511,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_nautilus_360_rs_argb_liquid_cpu_cooler_-_white",
+    "name": "Corsair Nautilus 360 RS ARGB Liquid CPU Cooler - White",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 8449,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lp240_argb_240mm_cpu_liquid_cooler_(r-lp240-bkmsnc-g-1)",
+    "name": "Deepcool LP240 ARGB 240mm CPU Liquid Cooler (R-LP240-BKMSNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 8939,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lp360_argb_360mm_cpu_liquid_cooler_(r-lp360-bkmsnc-g-1)",
+    "name": "Deepcool LP360 ARGB 360mm CPU Liquid Cooler (R-LP360-BKMSNC-G-1)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 9999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_elite_360_rgb_360mm_aio_liquid_cooler_matte_black_(rl-kr36e-b2)",
+    "name": "NZXT Kraken Elite 360 RGB 360mm AIO Liquid Cooler Matte Black (RL-KR36E-B2)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 25999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "nzxt_kraken_elite_360_rgb_360mm_aio_liquid_cooler_matte_white_(rl-kr36e-w2)",
+    "name": "NZXT Kraken Elite 360 RGB 360mm AIO Liquid Cooler Matte White (RL-KR36E-W2)",
+    "category": "cooler",
+    "brand": "NZXT",
+    "type": "Liquid",
+    "price_inr": 25999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_nautilus_240_rs_argb_liquid_cpu_cooler",
+    "name": "Corsair Nautilus 240 RS ARGB Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 6259,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "corsair_nautilus_360_rs_argb_liquid_cpu_cooler",
+    "name": "Corsair Nautilus 360 RS ARGB Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Corsair",
+    "type": "Liquid",
+    "price_inr": 7178,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_lq360_360mm_argb_liquid_cpu_cooler",
+    "name": "Deepcool LQ360 360mm ARGB Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 12600,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc120v_single_tower_cpu_air_cooler_(black)",
+    "name": "ZEBRONICS Zeb FC120V Single Tower CPU Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 649,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc120a_single_tower_argb_cpu_air_cooler_(_black_)",
+    "name": "ZEBRONICS Zeb FC120A Single Tower ARGB CPU Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc230a_single_tower_argb_cpu_air_cooler_(_black_)",
+    "name": "ZEBRONICS Zeb FC230A Single Tower ARGB CPU Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 899,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc430a_single_tower_argb_cpu_air_cooler_(_black_)",
+    "name": "ZEBRONICS Zeb FC430A Single Tower ARGB CPU Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 1395,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc630a_single_tower_argb_cpu_air_cooler_(_black_)",
+    "name": "ZEBRONICS Zeb FC630A Single Tower ARGB CPU Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 1900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_fc1200u_dual_tower_argb_cpu_air_cooler_(_black_)",
+    "name": "ZEBRONICS Zeb FC1200U Dual Tower ARGB CPU Air Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Air",
+    "price_inr": 2849,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240vb_argb_240mmcpu_liquid_cooler_(_black_)",
+    "name": "ZEBRONICS ZEB AIO240VB ARGB 240mmCPU Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 4199,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240vw_argb_240mmcpu_liquid_cooler_(_white_)",
+    "name": "ZEBRONICS ZEB AIO240VW ARGB 240mmCPU Liquid Cooler ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 4299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360vb_argb_360mmcpu_liquid_cooler_(_black_)",
+    "name": "ZEBRONICS ZEB AIO360VB ARGB 360mmCPU Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 5799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360vw_argb_360mmcpu_liquid_cooler_(_white_)",
+    "name": "ZEBRONICS ZEB AIO360VW ARGB 360mmCPU Liquid Cooler ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 5999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240ab_argb_240mmcpu_liquid_cooler_(_black_)",
+    "name": "ZEBRONICS ZEB AIO240AB ARGB 240mmCPU Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 4599,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240aw_argb_240mmcpu_liquid_cooler_(_white_)",
+    "name": "ZEBRONICS ZEB AIO240AW ARGB 240mmCPU Liquid Cooler ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 4999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360ab_argb_360mmcpu_liquid_cooler_(_black_)",
+    "name": "ZEBRONICS ZEB AIO360AB ARGB 360mmCPU Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 6399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360aw_argb_360mm_cpu_liquid_cooler_(_white_)",
+    "name": "ZEBRONICS ZEB AIO360AW ARGB 360mm CPU Liquid Cooler ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 6499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240tb_argb_240mm_cpu_liquid_cooler_(_with_lcd_display_)_(_black_)",
+    "name": "ZEBRONICS ZEB AIO240TB ARGB 240mm CPU Liquid Cooler ( With LCD Display ) ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 5299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio240tw_argb_240mm_cpu_liquid_cooler_(_with_lcd_display_)_(_white_)",
+    "name": "ZEBRONICS ZEB AIO240TW ARGB 240mm CPU Liquid Cooler ( With LCD Display ) ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 5549,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360tb_argb_360mmcpu_liquid_cooler_(_black_)",
+    "name": "ZEBRONICS ZEB AIO360TB ARGB 360mmCPU Liquid Cooler ( Black )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 6399,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "zebronics_zeb_aio360tw_argb_360mmcpu_liquid_cooler_(_white_)",
+    "name": "ZEBRONICS ZEB AIO360TW ARGB 360mmCPU Liquid Cooler ( White )",
+    "category": "cooler",
+    "brand": "ZEBRONICS",
+    "type": "Liquid",
+    "price_inr": 6499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360_core_ii_argb_liquid_cpu_cooler_(mlw-d36m-a18pa-r1)",
+    "name": "Cooler Master MasterLiquid 360 Core II ARGB Liquid CPU Cooler (MLW-D36M-A18PA-R1)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 8140,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_360_core_ii_white_argb_liquid_cpu_cooler_(mlw-d36m-a18pa-rw)",
+    "name": "Cooler Master MasterLiquid 360 Core II White ARGB Liquid CPU Cooler (MLW-D36M-A18PA-RW)",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 8580,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_ak400_digital_pro_120mm_cpu_air_cooler_(r-ak400-bkapmn-g)",
+    "name": "Deepcool AK400 Digital Pro 120mm CPU Air Cooler (R-AK400-BKAPMN-G)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Air",
+    "price_inr": 3890,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_a13_240mm_argb_aio_liquid_cpu_cooler_(black)",
+    "name": "MSI MAG CORELIQUID A13 240mm ARGB AIO Liquid CPU Cooler (Black)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 5044,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_a13_240mm_argb_aio_liquid_cpu_cooler_(white)",
+    "name": "MSI MAG CORELIQUID A13 240mm ARGB AIO Liquid CPU Cooler (White)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 5649,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_a13_360mm_argb_aio_liquid_cpu_cooler_(black)",
+    "name": "MSI MAG CORELIQUID A13 360mm ARGB AIO Liquid CPU Cooler (Black)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 6349,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_coreliquid_a13_360mm_argb_aio_liquid_cpu_cooler_(white)",
+    "name": "MSI MAG CORELIQUID A13 360mm ARGB AIO Liquid CPU Cooler (White)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 6990,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_le360_v2_360mm_cpu_liquid_cooler_white_(r-le360-whammn-g-2)",
+    "name": "Deepcool LE360 V2 360mm CPU Liquid Cooler White (R-LE360-WHAMMN-G-2)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 6950,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_le360_v2_360mm_cpu_liquid_cooler_black_(r-le360-bkammc-g-2)",
+    "name": "Deepcool LE360 V2 360mm CPU Liquid Cooler Black (R-LE360-BKAMMC-G-2)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 5999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_le240_v2_240mm_cpu_liquid_cooler_white_(r-le240-whammn-g-2)",
+    "name": "Deepcool LE240 V2 240mm CPU Liquid Cooler White (R-LE240-WHAMMN-G-2)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 4552,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "deepcool_le240_v2_240mm_cpu_liquid_cooler_black_(r-le240-bkammc-g-2)",
+    "name": "Deepcool LE240 V2 240mm CPU Liquid Cooler Black (R-LE240-BKAMMC-G-2)",
+    "category": "cooler",
+    "brand": "Deepcool",
+    "type": "Liquid",
+    "price_inr": 4550,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_hydroshift_lcd_360s_aio_cooler_(black)",
+    "name": "Lian Li HydroShift LCD 360S AIO Cooler (Black)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 18499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "lian_li_hydroshift_lcd_360s_aio_cooler_(white)",
+    "name": "Lian Li HydroShift LCD 360S AIO Cooler (White)",
+    "category": "cooler",
+    "brand": "Lian",
+    "type": "Liquid",
+    "price_inr": 18499,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_astria_600_argb_lighting_snow_cpu_air_cooler",
+    "name": "Thermaltake Astria 600 ARGB Lighting Snow CPU Air Cooler",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Air",
+    "price_inr": 4799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th420_v2_ultra_argb_sync_alo_liquid_cooler_(black)",
+    "name": "Thermaltake TH420 V2 Ultra ARGB Sync AlO Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 17109,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th420_v2_ultra_ex_argb_aio_cpu_cooler_(black)",
+    "name": "Thermaltake TH420 V2 Ultra EX ARGB AIO CPU Cooler (Black)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 18289,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_ultra_argb_sync_all-in-one_liquid_cooler_(hydrangea_blue)",
+    "name": "Thermaltake TH360 V2 Ultra ARGB Sync All-In-One Liquid Cooler (Hydrangea Blue)",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 14699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_th360_v2_ultra_ex_argb_sync_cpu_liquid_cooler_(_snow_)",
+    "name": "THERMALTAKE TH360 V2 Ultra EX ARGB Sync CPU Liquid Cooler ( Snow )",
+    "category": "cooler",
+    "brand": "THERMALTAKE",
+    "type": "Liquid",
+    "price_inr": 14699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_la240-s_argb_sync_aio_liquid_cpu_cooler",
+    "name": "Thermaltake LA240-S ARGB Sync AIO Liquid CPU Cooler",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 6799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "thermaltake_la360-s_argb_360mm_cpu_liquid_cooler",
+    "name": "Thermaltake LA360-S ARGB 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "type": "Liquid",
+    "price_inr": 7799,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_pro_360_aio_liquid_cooler_\u2013_black",
+    "name": "ARCTIC Liquid Freezer III Pro 360 AIO Liquid Cooler \u2013 Black",
+    "category": "cooler",
+    "brand": "ARCTIC",
+    "type": "Liquid",
+    "price_inr": 9394,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_pro_360_a-rgb_liquid_cpu_cooler_(black)",
+    "name": "Arctic Liquid Freezer III Pro 360 A-RGB Liquid CPU Cooler (Black)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 10794,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "arctic_liquid_freezer_iii_pro_360_a-rgb_liquid_cpu_cooler_(white)",
+    "name": "Arctic Liquid Freezer III Pro 360 A-RGB Liquid CPU Cooler (White)",
+    "category": "cooler",
+    "brand": "Arctic",
+    "type": "Liquid",
+    "price_inr": 11595,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_atmos_ii_240_lcd_liquid_cpu_cooler_-_black",
+    "name": "Cooler Master MasterLiquid Atmos II 240 LCD Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 14280,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_atmos_ii_240_pixel_led_liquid_cpu_cooler_-_black",
+    "name": "Cooler Master MasterLiquid Atmos II 240 Pixel LED Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 14700,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_atmos_ii_360_lcd_liquid_cpu_cooler_-_black",
+    "name": "Cooler Master MasterLiquid Atmos II 360 LCD Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 15800,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_atmos_ii_360_lcd_liquid_cpu_cooler_-_white",
+    "name": "Cooler Master MasterLiquid Atmos II 360 LCD Liquid CPU Cooler - White",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 15900,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "cooler_master_masterliquid_atmos_ii_360_pixel_led_liquid_cpu_cooler_-_black",
+    "name": "Cooler Master MasterLiquid Atmos II 360 Pixel LED Liquid CPU Cooler - Black",
+    "category": "cooler",
+    "brand": "Cooler",
+    "type": "Liquid",
+    "price_inr": 16000,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "prolab_design_ai360_lcd_aio_liquid_cooler",
+    "name": "ProLab Design AI360 LCD AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "ProLab",
+    "type": "Liquid",
+    "price_inr": 11550,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "prolab_design_ai360_lc_aio_liquid_cooler",
+    "name": "ProLab Design AI360 LC AIO Liquid Cooler",
+    "category": "cooler",
+    "brand": "ProLab",
+    "type": "Liquid",
+    "price_inr": 6600,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mpg_coreliquid_p13_360_white",
+    "name": "MSI MPG CORELIQUID P13 360 WHITE",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 14999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mpg_coreliquid_p13_360_black",
+    "name": "MSI MPG CORELIQUID P13 360 BLACK",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Liquid",
+    "price_inr": 14999,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_corefrozr_aa13_cpu_air_cooler_(white)",
+    "name": "MSI MAG CoreFrozr AA13 CPU Air Cooler (White)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Air",
+    "price_inr": 1944,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "msi_mag_corefrozr_aa13_cpu_air_cooler_(black)",
+    "name": "MSI MAG CoreFrozr AA13 CPU Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "MSI",
+    "type": "Air",
+    "price_inr": 1844,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_gaming_240_argb_240mm_cpu_liquid_cooler_(black)",
+    "name": "GIGABYTE GAMING 240 ARGB 240mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "GIGABYTE",
+    "type": "Liquid",
+    "price_inr": 5299,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_gaming_240_ice_argb_240mm_cpu_liquid_cooler",
+    "name": "GIGABYTE GAMING 240 ICE ARGB 240mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "GIGABYTE",
+    "type": "Liquid",
+    "price_inr": 5845,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_gaming_360_argb_360mm_cpu_liquid_cooler_(black)",
+    "name": "GIGABYTE GAMING 360 ARGB 360mm CPU Liquid Cooler (Black)",
+    "category": "cooler",
+    "brand": "GIGABYTE",
+    "type": "Liquid",
+    "price_inr": 6699,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "gigabyte_gaming_360_ice_argb_360mm_cpu_liquid_cooler",
+    "name": "GIGABYTE GAMING 360 ICE ARGB 360mm CPU Liquid Cooler",
+    "category": "cooler",
+    "brand": "GIGABYTE",
+    "type": "Liquid",
+    "price_inr": 7095,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "antec_a30_neo_argb_92mm_cpu_air_cooler_(black)",
+    "name": "Antec A30 Neo ARGB 92mm CPU Air Cooler (Black)",
+    "category": "cooler",
+    "brand": "Antec",
+    "type": "Air",
+    "price_inr": 1510,
+    "source": "pcpricetracker",
+    "last_updated": "2025-12-23"
+  }
+]

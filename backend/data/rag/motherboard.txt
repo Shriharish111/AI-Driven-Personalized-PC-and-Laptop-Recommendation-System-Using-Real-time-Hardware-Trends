@@ -1,0 +1,23 @@
+The motherboard is the central circuit board that connects and coordinates all system components including the CPU, RAM, storage, GPU, and power supply.
+
+Motherboards determine system compatibility, expansion capability, power delivery quality, and overall system stability.
+
+CPU compatibility depends on the motherboard socket type and chipset. A motherboard must support the specific CPU generation and socket to function correctly.
+
+Entry-level motherboards provide essential functionality and are suitable for basic systems without overclocking, heavy expansion, or advanced connectivity requirements.
+
+Mid-range motherboards offer improved power delivery, better thermal design, additional connectivity options, and support for faster memory speeds. They are ideal for gaming and productivity systems.
+
+High-end motherboards are designed for enthusiasts and professional users who require advanced features such as overclocking support, high-speed storage interfaces, premium audio, and extensive expansion options.
+
+Memory support depends on the motherboard’s supported RAM generation, maximum capacity, speed ratings, and memory channel configuration.
+
+Expansion slots allow users to add graphics cards, network cards, capture cards, and other peripherals. The number and type of slots affect future upgrade potential.
+
+Storage support varies by motherboard and includes interfaces for SATA drives and high-speed solid-state storage. The number of supported storage devices impacts system expandability.
+
+Power delivery components on the motherboard influence system stability, especially when using high-performance CPUs and GPUs.
+
+Form factor determines the physical size of the motherboard and affects case compatibility. Common form factors include compact and standard-sized boards.
+
+Selecting the appropriate motherboard ensures reliable system operation, component compatibility, and flexibility for future upgrades.

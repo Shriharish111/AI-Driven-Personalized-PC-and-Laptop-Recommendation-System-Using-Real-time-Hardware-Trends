@@ -84,3 +84,32 @@ def load_faiss_index():
     Load FAISS index from disk.
     """
     return faiss.read_index(str(get_vector_store_path()))
+
+def build_faiss_index(texts: list[str], index_path: str):
+    """
+    Build and save a FAISS index from arbitrary text data.
+    Used for RAG knowledge indexing.
+    """
+    # Generate embeddings
+    embeddings = generate_embeddings(texts)
+
+    # Create FAISS index
+    index = create_faiss_index(embeddings)
+
+    # Save index to provided path
+    index_file = Path(index_path)
+    index_file.parent.mkdir(parents=True, exist_ok=True)
+
+    faiss.write_index(index, str(index_file))
+def embed_text(text: str):
+    """
+    Generate embedding for a single text query.
+    Used by RAG during retrieval.
+    """
+    embedding = embedding_model.encode([text], convert_to_numpy=True)
+    embedding = embedding.astype("float32")
+
+    # Normalize for cosine similarity
+    faiss.normalize_L2(embedding)
+
+    return embedding
